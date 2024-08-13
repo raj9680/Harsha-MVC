@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "GaZcyZQWPe1ydaJMcNX9u8K0784onzx+xRHqXRHkQZU=",
+  "Source": "ViewComponentsWithViewData",
+  "BasePath": "_content/ViewComponentsWithViewData",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ViewComponentsWithViewData\\wwwroot",
+      "Source": "ViewComponentsWithViewData",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\View Components\\ViewComponentsWithViewData\\wwwroot\\",
+      "BasePath": "_content/ViewComponentsWithViewData",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\View Components\\ViewComponentsWithViewData\\wwwroot\\StyleSheet.css",
+      "SourceId": "ViewComponentsWithViewData",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\View Components\\ViewComponentsWithViewData\\wwwroot\\",
+      "BasePath": "_content/ViewComponentsWithViewData",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

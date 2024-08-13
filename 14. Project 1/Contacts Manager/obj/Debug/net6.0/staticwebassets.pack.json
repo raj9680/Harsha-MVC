@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\Contacts Manager\\wwwroot\\Stylesheet.css",
+      "PackagePath": "staticwebassets\\Stylesheet.css"
+    },
+    {
+      "Id": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\Contacts Manager\\wwwroot\\img\\logo.PNG",
+      "PackagePath": "staticwebassets\\img\\logo.PNG"
+    },
+    {
+      "Id": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\Contacts Manager\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\Contacts Manager\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\Contacts Manager\\wwwroot\\js\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\Contacts Manager\\wwwroot\\rotativa\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\Contacts Manager\\wwwroot\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Contacts Manager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Contacts Manager.props",
+      "PackagePath": "build\\Contacts Manager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Contacts Manager.props",
+      "PackagePath": "buildMultiTargeting\\Contacts Manager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Contacts Manager.props",
+      "PackagePath": "buildTransitive\\Contacts Manager.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

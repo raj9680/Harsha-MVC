@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5h4aFSLf++kUrea+XG0zoWKjZ2YpihiLccEEfjdGZ+I=",
+  "Source": "Model Validations 1",
+  "BasePath": "_content/Model Validations 1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Model Validations 1\\wwwroot",
+      "Source": "Model Validations 1",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding & Validations\\Model Validations 1\\wwwroot\\",
+      "BasePath": "_content/Model Validations 1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

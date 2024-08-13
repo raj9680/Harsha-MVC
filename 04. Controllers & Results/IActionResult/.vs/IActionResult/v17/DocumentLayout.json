@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\04. Controllers \u0026 Results\\IActionResult\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D19CA4-AE82-4C38-BD27-8FFF0DFC89BC}|IActionResult.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\04. controllers \u0026 results\\iactionresult\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D19CA4-AE82-4C38-BD27-8FFF0DFC89BC}|IActionResult.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D19CA4-AE82-4C38-BD27-8FFF0DFC89BC}|IActionResult.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\04. controllers \u0026 results\\iactionresult\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D19CA4-AE82-4C38-BD27-8FFF0DFC89BC}|IActionResult.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\04. Controllers \u0026 Results\\IActionResult\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\04. Controllers \u0026 Results\\IActionResult\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:14:39.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\04. Controllers \u0026 Results\\IActionResult\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\04. Controllers \u0026 Results\\IActionResult\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:14:39.373Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

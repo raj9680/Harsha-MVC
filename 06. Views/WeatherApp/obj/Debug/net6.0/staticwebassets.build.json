@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "R54qw3fzAlIdZGQzQTE+rmDqrmlPK64iSaU6Me6L3Uc=",
+  "Source": "WeatherApp",
+  "BasePath": "_content/WeatherApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeatherApp\\wwwroot",
+      "Source": "WeatherApp",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Views\\WeatherApp\\wwwroot\\",
+      "BasePath": "_content/WeatherApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

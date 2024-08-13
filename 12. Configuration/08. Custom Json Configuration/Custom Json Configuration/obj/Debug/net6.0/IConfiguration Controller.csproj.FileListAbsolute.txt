@@ -1,0 +1,33 @@
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\bin\Debug\net6.0\IConfiguration Controller.staticwebassets.runtime.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\bin\Debug\net6.0\IConfiguration Controller.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\bin\Debug\net6.0\IConfiguration Controller.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\bin\Debug\net6.0\IConfiguration Controller.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\bin\Debug\net6.0\IConfiguration Controller.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\bin\Debug\net6.0\IConfiguration Controller.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\bin\Debug\net6.0\Autofac.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\IConfiguration Controller.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\IConfiguration Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\IConfiguration Controller.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\IConfiguration Controller.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\IConfiguration Controller.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\IConfiguration Controller.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\IConfiguration Controller.RazorAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\IConfiguration Controller.RazorAssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\IConfiguration Controller.sourcelink.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\staticwebassets\msbuild.IConfiguration Controller.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\staticwebassets\msbuild.build.IConfiguration Controller.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IConfiguration Controller.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IConfiguration Controller.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\scopedcss\bundle\IConfiguration Controller.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\IConfigu.8CBDB728.Up2Date
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\IConfiguration Controller.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\refint\IConfiguration Controller.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\IConfiguration Controller.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\IConfiguration Controller.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\02. IConfiguration Controller\IConfiguration Controller\obj\Debug\net6.0\ref\IConfiguration Controller.dll

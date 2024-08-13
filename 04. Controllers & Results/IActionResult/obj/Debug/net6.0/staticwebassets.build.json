@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "1vgEnSoRuYDzhDicE4Q0lGYjr3eaCDDT43LNte/L8T0=",
+  "Source": "IActionResult",
+  "BasePath": "_content/IActionResult",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "IActionResult\\wwwroot",
+      "Source": "IActionResult",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Controllers & Results\\IActionResult\\wwwroot\\",
+      "BasePath": "_content/IActionResult",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Controllers & Results\\IActionResult\\wwwroot\\LINQ.pdf",
+      "SourceId": "IActionResult",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Controllers & Results\\IActionResult\\wwwroot\\",
+      "BasePath": "_content/IActionResult",
+      "RelativePath": "LINQ.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\LINQ.pdf"
+    }
+  ]
+}

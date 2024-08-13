@@ -1,0 +1,54 @@
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\bin\Debug\net6.0\StaticFiles.staticwebassets.runtime.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\bin\Debug\net6.0\StaticFiles.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\bin\Debug\net6.0\StaticFiles.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\bin\Debug\net6.0\StaticFiles.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\bin\Debug\net6.0\StaticFiles.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\bin\Debug\net6.0\StaticFiles.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\obj\Debug\net6.0\StaticFiles.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\obj\Debug\net6.0\StaticFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\obj\Debug\net6.0\StaticFiles.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\obj\Debug\net6.0\StaticFiles.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\obj\Debug\net6.0\StaticFiles.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\obj\Debug\net6.0\StaticFiles.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\obj\Debug\net6.0\staticwebassets\msbuild.StaticFiles.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\obj\Debug\net6.0\staticwebassets\msbuild.build.StaticFiles.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StaticFiles.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StaticFiles.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\obj\Debug\net6.0\scopedcss\bundle\StaticFiles.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\obj\Debug\net6.0\StaticFiles.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\obj\Debug\net6.0\refint\StaticFiles.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\obj\Debug\net6.0\StaticFiles.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\obj\Debug\net6.0\StaticFiles.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\StaticFiles\obj\Debug\net6.0\ref\StaticFiles.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\bin\Debug\net6.0\StaticFiles.staticwebassets.runtime.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\bin\Debug\net6.0\StaticFiles.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\bin\Debug\net6.0\StaticFiles.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\bin\Debug\net6.0\StaticFiles.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\bin\Debug\net6.0\StaticFiles.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\bin\Debug\net6.0\StaticFiles.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\obj\Debug\net6.0\StaticFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\obj\Debug\net6.0\StaticFiles.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\obj\Debug\net6.0\StaticFiles.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\obj\Debug\net6.0\StaticFiles.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\obj\Debug\net6.0\StaticFiles.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\obj\Debug\net6.0\StaticFiles.sourcelink.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\obj\Debug\net6.0\staticwebassets\msbuild.StaticFiles.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\obj\Debug\net6.0\staticwebassets\msbuild.build.StaticFiles.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StaticFiles.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StaticFiles.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\obj\Debug\net6.0\scopedcss\bundle\StaticFiles.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\obj\Debug\net6.0\StaticFiles.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\obj\Debug\net6.0\refint\StaticFiles.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\obj\Debug\net6.0\StaticFiles.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\obj\Debug\net6.0\StaticFiles.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\StaticFiles\obj\Debug\net6.0\ref\StaticFiles.dll

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "XYW7dq6Jn5YtvDCQSS8DsBz7H9wtwbS10QrCWVHXSpk=",
+  "Source": "ViewComponentResult",
+  "BasePath": "_content/ViewComponentResult",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ViewComponentResult\\wwwroot",
+      "Source": "ViewComponentResult",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\09. View Components\\05. ViewComponentResult\\wwwroot\\",
+      "BasePath": "_content/ViewComponentResult",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\09. View Components\\05. ViewComponentResult\\wwwroot\\StyleSheet.css",
+      "SourceId": "ViewComponentResult",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\09. View Components\\05. ViewComponentResult\\wwwroot\\",
+      "BasePath": "_content/ViewComponentResult",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

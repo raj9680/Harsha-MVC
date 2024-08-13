@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "N692XcL9gEGYxnNB6DF5Bga3QhsZJQNZK86O+jBJna4=",
+  "Source": "Custom Json Configuration",
+  "BasePath": "_content/Custom Json Configuration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Custom Json Configuration\\wwwroot",
+      "Source": "Custom Json Configuration",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\08. Custom Json Configuration\\Custom Json Configuration\\wwwroot\\",
+      "BasePath": "_content/Custom Json Configuration",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\08. Custom Json Configuration\\Custom Json Configuration\\wwwroot\\Stylesheet.css",
+      "SourceId": "Custom Json Configuration",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\08. Custom Json Configuration\\Custom Json Configuration\\wwwroot\\",
+      "BasePath": "_content/Custom Json Configuration",
+      "RelativePath": "Stylesheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Stylesheet.css"
+    }
+  ]
+}

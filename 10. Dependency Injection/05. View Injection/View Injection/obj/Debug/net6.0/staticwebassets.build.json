@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "NXk5zRH05AteRoQBCWXilPvttyI852zmMxqy9OZc8qQ=",
+  "Source": "View Injection",
+  "BasePath": "_content/View Injection",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "View Injection\\wwwroot",
+      "Source": "View Injection",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\10. Dependency Injection\\05. View Injection\\View Injection\\wwwroot\\",
+      "BasePath": "_content/View Injection",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\10. Dependency Injection\\05. View Injection\\View Injection\\wwwroot\\Stylesheet.css",
+      "SourceId": "View Injection",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\10. Dependency Injection\\05. View Injection\\View Injection\\wwwroot\\",
+      "BasePath": "_content/View Injection",
+      "RelativePath": "Stylesheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Stylesheet.css"
+    }
+  ]
+}

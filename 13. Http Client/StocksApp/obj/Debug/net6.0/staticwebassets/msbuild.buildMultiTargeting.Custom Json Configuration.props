@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Custom Json Configuration.props" />
+</Project>

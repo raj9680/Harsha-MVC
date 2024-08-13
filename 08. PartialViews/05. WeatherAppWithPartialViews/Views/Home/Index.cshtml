@@ -1,0 +1,32 @@
+﻿@using WeatherApp.Models;
+
+@model List<CityModel>
+
+<div style="display:flex; text-align:center; margin:auto;">
+    @foreach(var city in Model)
+    {
+        <div style="background-color:#f7c8c8; width:300px; margin:10px; padding:10px;">
+            <h3>@city.CityUniqueCode</h3>
+            <p>@city.CityName - <span><a id="btn-load" href="~/weather-partial/@city.CityUniqueCode" style="text-decoration:none;"> View Details</a></span></p>
+        </div>
+    }
+</div>
+<hr />
+
+<div class="weather-detail" style="padding:20px; background-color:#eee; margin:20px; width:800px;"></div>
+
+
+
+<script>
+    const buttons = document.getElementsByTagName("a");
+    const buttonPressed = async e => {
+        e.preventDefault();
+        var url = e.target.href
+        var response = await fetch(url);
+        var languages = await response.text();
+        document.querySelector(".weather-detail").innerHTML = languages;
+    }
+    for (let button of buttons) {
+        button.addEventListener("click", buttonPressed);
+    }
+</script>

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "A0GYNfv47bW8xf2DACei+v3SKHZrugXSkqFvGfk2A5Q=",
+  "Source": "StronglyTypedViewsMultipleModels",
+  "BasePath": "_content/StronglyTypedViewsMultipleModels",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StronglyTypedViewsMultipleModels\\wwwroot",
+      "Source": "StronglyTypedViewsMultipleModels",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Views\\StronglyTypedViewsMultipleModels\\wwwroot\\",
+      "BasePath": "_content/StronglyTypedViewsMultipleModels",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

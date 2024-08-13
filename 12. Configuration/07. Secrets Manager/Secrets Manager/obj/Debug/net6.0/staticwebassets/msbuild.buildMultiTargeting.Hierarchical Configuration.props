@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Hierarchical Configuration.props" />
+</Project>

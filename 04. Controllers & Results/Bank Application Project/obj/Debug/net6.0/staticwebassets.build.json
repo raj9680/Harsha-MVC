@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "FLB6fSj7T4Dx6NIDwQXnJ5XqNeIZjOGeu4HYuPZ4uXk=",
+  "Source": "Bank Application Project",
+  "BasePath": "_content/Bank Application Project",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Bank Application Project\\wwwroot",
+      "Source": "Bank Application Project",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Controllers & Results\\Bank Application Project\\wwwroot\\",
+      "BasePath": "_content/Bank Application Project",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Controllers & Results\\Bank Application Project\\wwwroot\\7150-sdoula528.pdf",
+      "SourceId": "Bank Application Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Controllers & Results\\Bank Application Project\\wwwroot\\",
+      "BasePath": "_content/Bank Application Project",
+      "RelativePath": "7150-sdoula528.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\7150-sdoula528.pdf"
+    }
+  ]
+}

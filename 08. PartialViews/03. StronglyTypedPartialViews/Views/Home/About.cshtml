@@ -1,0 +1,34 @@
+﻿<h1>About</h1>
+
+<h3>Cities List From Partial Views</h3>
+
+@{
+    ListModel listModel = new ListModel();
+    listModel.ListTitle = "Countries Title from About View";
+    listModel.ListItems = new List<string>()
+    {
+        "Python",
+        "Php",
+        "Java",
+        "C#",
+        "Kotlin"
+    };
+}
+
+
+@* Stream the content to parent view // returns partial view to parent view*@
+<partial name="_List" model="listModel"></partial>
+
+
+@* OR *@
+@* Stream the content to parent view // returns partial view to parent view*@
+
+@await Html.PartialAsync("_List", listModel);
+
+
+
+@* OR *@
+@* Stream the content to browser // sends response directly to the browser i.e it does not returns anything to view i.e (void). It directly communicate to browser. *@
+@{
+    await Html.RenderPartialAsync("_List", listModel);
+}

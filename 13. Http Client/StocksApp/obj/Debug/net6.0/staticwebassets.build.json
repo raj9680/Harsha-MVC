@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "CLfDYBRnzvBh/iXlrEJFh+D8nQFBwH+g7BF5s87rO74=",
+  "Source": "StocksApp",
+  "BasePath": "_content/StocksApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StocksApp\\wwwroot",
+      "Source": "StocksApp",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\13. Http Client\\StocksApp\\wwwroot\\",
+      "BasePath": "_content/StocksApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\13. Http Client\\StocksApp\\wwwroot\\Stylesheet.css",
+      "SourceId": "StocksApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\13. Http Client\\StocksApp\\wwwroot\\",
+      "BasePath": "_content/StocksApp",
+      "RelativePath": "Stylesheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Stylesheet.css"
+    }
+  ]
+}

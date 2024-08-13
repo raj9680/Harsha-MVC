@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "899Nn8yUlayGLtPq5usKvj8pcZflfMBtrvRmwfTZhk4=",
+  "Source": "Shared Views",
+  "BasePath": "_content/Shared Views",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Shared Views\\wwwroot",
+      "Source": "Shared Views",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\06. Views\\05. Shared Views\\wwwroot\\",
+      "BasePath": "_content/Shared Views",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,32 @@
+﻿@* Injecting Service/DI from Views, for doing this it is required to import belows  *@
+
+@using ServiceContracts;
+@inject ICitiesService citiesServiceInView;
+
+
+
+@model IEnumerable<string>
+@{
+    ViewBag.Title = "Home";
+}
+
+<h1>List of Cities from View Injection</h1>
+
+@{
+    List<string> citiesFromServiceView = citiesServiceInView.GetCities();
+}
+
+<ul class="list">
+    @foreach (string city in citiesFromServiceView)
+    {
+        <li>@city</li>
+    }
+</ul>
+
+@*Change the Service Scope (Transient, Scoped, Singleton) in program.cs file to see the change in object in browser*@
+
+<h3>Object 1: @ViewBag.InstanceId_CitiesService_1</h3>
+<h3>Object 2: @ViewBag.InstanceId_CitiesService_2</h3>
+<h3>Object 3: @ViewBag.InstanceId_CitiesService_3</h3>
+
+<div class="box"><strong>Object 4 from using SCOPE:</strong> @ViewBag.InstanceIdScope</div>

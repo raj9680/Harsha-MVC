@@ -1,0 +1,33 @@
+﻿@using LayoutViews.Models;
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["appTitle"]</title>
+    <meta charset="utf-8" />
+    <link href="~/style.css" rel="stylesheet" />
+</head>
+<body>
+    <h1>Hello</h1>
+    @{
+        List<PersonModel>? people = (List<PersonModel>?)ViewData["people"];
+        
+        // ViewData
+        for (int i = 0; i < people?.Count(); i++)
+        {
+            <p>@people[i].Name</p>
+            <p>@people[i].PersonGender</p>
+            <p>@people[i].DateOfBirth</p>
+        }
+
+        // ViewBag
+        <p><strong>ViewBag:</strong> In ViewBag we dont need to type cast but in ViewData we need to type cast as View data is of Object type</p>
+        @foreach (PersonModel person in ViewBag.people)
+        {
+            @person.Name
+            <span>, @person.DateOfBirth?.ToString("MM/dd/yyyy")</span>
+            <br />
+        }
+    }
+</body>
+</html>

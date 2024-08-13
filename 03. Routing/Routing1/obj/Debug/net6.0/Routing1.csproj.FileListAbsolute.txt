@@ -1,0 +1,52 @@
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\bin\Debug\net6.0\Routing1.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\bin\Debug\net6.0\Routing1.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\bin\Debug\net6.0\Routing1.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\bin\Debug\net6.0\Routing1.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\bin\Debug\net6.0\Routing1.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\obj\Debug\net6.0\Routing1.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\obj\Debug\net6.0\Routing1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\obj\Debug\net6.0\Routing1.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\obj\Debug\net6.0\Routing1.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\obj\Debug\net6.0\Routing1.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\obj\Debug\net6.0\Routing1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\obj\Debug\net6.0\staticwebassets\msbuild.Routing1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\obj\Debug\net6.0\staticwebassets\msbuild.build.Routing1.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Routing1.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Routing1.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\obj\Debug\net6.0\scopedcss\bundle\Routing1.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\obj\Debug\net6.0\Routing1.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\obj\Debug\net6.0\refint\Routing1.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\obj\Debug\net6.0\Routing1.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\obj\Debug\net6.0\Routing1.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Routing\Routing1\obj\Debug\net6.0\ref\Routing1.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\bin\Debug\net6.0\Routing1.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\bin\Debug\net6.0\Routing1.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\bin\Debug\net6.0\Routing1.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\bin\Debug\net6.0\Routing1.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\bin\Debug\net6.0\Routing1.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\obj\Debug\net6.0\Routing1.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\obj\Debug\net6.0\Routing1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\obj\Debug\net6.0\Routing1.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\obj\Debug\net6.0\Routing1.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\obj\Debug\net6.0\Routing1.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\obj\Debug\net6.0\Routing1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\obj\Debug\net6.0\staticwebassets\msbuild.Routing1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\obj\Debug\net6.0\staticwebassets\msbuild.build.Routing1.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Routing1.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Routing1.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\obj\Debug\net6.0\scopedcss\bundle\Routing1.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\obj\Debug\net6.0\Routing1.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\obj\Debug\net6.0\refint\Routing1.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\obj\Debug\net6.0\Routing1.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\obj\Debug\net6.0\Routing1.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\03. Routing\Routing1\obj\Debug\net6.0\ref\Routing1.dll

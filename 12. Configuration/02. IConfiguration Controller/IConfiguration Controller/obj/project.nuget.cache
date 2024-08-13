@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "o09REcuXimM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\02. IConfiguration Controller\\IConfiguration Controller\\IConfiguration Controller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

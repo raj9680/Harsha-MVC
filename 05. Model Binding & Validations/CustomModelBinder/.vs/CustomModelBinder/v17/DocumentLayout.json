@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\CustomModelBinder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{078DF275-5508-4751-820B-B1127C209C3D}|CustomModelBinder.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\05. model binding \u0026 validations\\custommodelbinder\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078DF275-5508-4751-820B-B1127C209C3D}|CustomModelBinder.csproj|solutionrelative:models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078DF275-5508-4751-820B-B1127C209C3D}|CustomModelBinder.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\05. model binding \u0026 validations\\custommodelbinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078DF275-5508-4751-820B-B1127C209C3D}|CustomModelBinder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078DF275-5508-4751-820B-B1127C209C3D}|CustomModelBinder.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\05. model binding \u0026 validations\\custommodelbinder\\custombinderprovider\\personbinderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078DF275-5508-4751-820B-B1127C209C3D}|CustomModelBinder.csproj|solutionrelative:custombinderprovider\\personbinderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078DF275-5508-4751-820B-B1127C209C3D}|CustomModelBinder.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\05. model binding \u0026 validations\\custommodelbinder\\custommodelbinders\\personmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078DF275-5508-4751-820B-B1127C209C3D}|CustomModelBinder.csproj|solutionrelative:custommodelbinders\\personmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078DF275-5508-4751-820B-B1127C209C3D}|CustomModelBinder.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\05. model binding \u0026 validations\\custommodelbinder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078DF275-5508-4751-820B-B1127C209C3D}|CustomModelBinder.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonModelBinder.cs",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\CustomModelBinder\\CustomModelBinders\\PersonModelBinder.cs",
+              "RelativeDocumentMoniker": "CustomModelBinders\\PersonModelBinder.cs",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\CustomModelBinder\\CustomModelBinders\\PersonModelBinder.cs",
+              "RelativeToolTip": "CustomModelBinders\\PersonModelBinder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:23:30.969Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonBinderProvider.cs",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\CustomModelBinder\\CustomBinderProvider\\PersonBinderProvider.cs",
+              "RelativeDocumentMoniker": "CustomBinderProvider\\PersonBinderProvider.cs",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\CustomModelBinder\\CustomBinderProvider\\PersonBinderProvider.cs",
+              "RelativeToolTip": "CustomBinderProvider\\PersonBinderProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:49:36.829Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\CustomModelBinder\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "Models\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\CustomModelBinder\\Models\\PersonModel.cs",
+              "RelativeToolTip": "Models\\PersonModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:04:41.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\CustomModelBinder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\CustomModelBinder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:50:26.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\CustomModelBinder\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\CustomModelBinder\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBAAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:34:58.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

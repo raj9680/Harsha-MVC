@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\Custom Validation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9E4E52-AB57-4A51-9CB1-0AA6118F6E16}|Custom Validation.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\05. model binding \u0026 validations\\custom validation\\customvalidators\\daterangevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9E4E52-AB57-4A51-9CB1-0AA6118F6E16}|Custom Validation.csproj|solutionrelative:customvalidators\\daterangevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9E4E52-AB57-4A51-9CB1-0AA6118F6E16}|Custom Validation.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\05. model binding \u0026 validations\\custom validation\\customvalidators\\minimumyearvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9E4E52-AB57-4A51-9CB1-0AA6118F6E16}|Custom Validation.csproj|solutionrelative:customvalidators\\minimumyearvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9E4E52-AB57-4A51-9CB1-0AA6118F6E16}|Custom Validation.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\05. model binding \u0026 validations\\custom validation\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9E4E52-AB57-4A51-9CB1-0AA6118F6E16}|Custom Validation.csproj|solutionrelative:models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DateRangeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\Custom Validation\\CustomValidators\\DateRangeValidator.cs",
+              "RelativeDocumentMoniker": "CustomValidators\\DateRangeValidator.cs",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\Custom Validation\\CustomValidators\\DateRangeValidator.cs",
+              "RelativeToolTip": "CustomValidators\\DateRangeValidator.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwB0AAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:02:21.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinimumYearValidatorAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\Custom Validation\\CustomValidators\\MinimumYearValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "CustomValidators\\MinimumYearValidatorAttribute.cs",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\Custom Validation\\CustomValidators\\MinimumYearValidatorAttribute.cs",
+              "RelativeToolTip": "CustomValidators\\MinimumYearValidatorAttribute.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T22:38:05.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\Custom Validation\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "Models\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\Custom Validation\\Models\\PersonModel.cs",
+              "RelativeToolTip": "Models\\PersonModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T22:34:27.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

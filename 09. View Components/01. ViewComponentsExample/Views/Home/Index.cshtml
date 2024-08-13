@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<h1>Home</h1>
+
+<p>Calling View Component using Default method</p>
+@await Component.InvokeAsync("Grid")
+
+@*Also we can call the ViewComponent using Tag Helpers*@
+
+<p>Calling View Component using Tag Helper</p>
+<vc:grid></vc:grid>

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "LMOEHDaOkihz12PWrQ9MwRk492FxQphOrl0tubW+oQE=",
+  "Source": "Transient Scoped and Singleton",
+  "BasePath": "_content/Transient Scoped and Singleton",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Transient Scoped and Singleton\\wwwroot",
+      "Source": "Transient Scoped and Singleton",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\10. Dependency Injection\\03. Transient Scoped and Singleton\\Transient Scoped and Singleton\\wwwroot\\",
+      "BasePath": "_content/Transient Scoped and Singleton",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\10. Dependency Injection\\03. Transient Scoped and Singleton\\Transient Scoped and Singleton\\wwwroot\\Stylesheet.css",
+      "SourceId": "Transient Scoped and Singleton",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\10. Dependency Injection\\03. Transient Scoped and Singleton\\Transient Scoped and Singleton\\wwwroot\\",
+      "BasePath": "_content/Transient Scoped and Singleton",
+      "RelativePath": "Stylesheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Stylesheet.css"
+    }
+  ]
+}

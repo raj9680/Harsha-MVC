@@ -1,0 +1,66 @@
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\bin\Debug\net6.0\Options Pattern.staticwebassets.runtime.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\bin\Debug\net6.0\Options Pattern.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\bin\Debug\net6.0\Options Pattern.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\bin\Debug\net6.0\Options Pattern.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\bin\Debug\net6.0\Options Pattern.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\bin\Debug\net6.0\Options Pattern.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\bin\Debug\net6.0\Autofac.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\Options Pattern.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\Options Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\Options Pattern.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\Options Pattern.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\Options Pattern.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\Options Pattern.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\Options Pattern.RazorAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\Options Pattern.RazorAssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\Options Pattern.sourcelink.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\staticwebassets\msbuild.Options Pattern.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\staticwebassets\msbuild.build.Options Pattern.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Options Pattern.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Options Pattern.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\scopedcss\bundle\Options Pattern.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\Options .14FFA439.Up2Date
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\Options Pattern.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\refint\Options Pattern.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\Options Pattern.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\Options Pattern.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\04. Options Pattern\Options Pattern\obj\Debug\net6.0\ref\Options Pattern.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\bin\Debug\net6.0\Options Pattern.staticwebassets.runtime.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\bin\Debug\net6.0\Options Pattern.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\bin\Debug\net6.0\Options Pattern.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\bin\Debug\net6.0\Options Pattern.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\bin\Debug\net6.0\Options Pattern.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\bin\Debug\net6.0\Options Pattern.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\bin\Debug\net6.0\Autofac.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\Options Pattern.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\Options Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\Options Pattern.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\Options Pattern.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\Options Pattern.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\Options Pattern.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\Options Pattern.RazorAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\Options Pattern.RazorAssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\Options Pattern.sourcelink.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\staticwebassets\msbuild.Options Pattern.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\staticwebassets\msbuild.build.Options Pattern.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Options Pattern.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Options Pattern.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\scopedcss\bundle\Options Pattern.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\Options .14FFA439.Up2Date
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\Options Pattern.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\refint\Options Pattern.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\Options Pattern.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\Options Pattern.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\05. Configuration as Service\Configuration as Service\obj\Debug\net6.0\ref\Options Pattern.dll

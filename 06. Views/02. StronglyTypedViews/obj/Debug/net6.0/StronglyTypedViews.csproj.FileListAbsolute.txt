@@ -1,0 +1,58 @@
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\bin\Debug\net6.0\StronglyTypedViews.staticwebassets.runtime.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\bin\Debug\net6.0\StronglyTypedViews.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\bin\Debug\net6.0\StronglyTypedViews.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\bin\Debug\net6.0\StronglyTypedViews.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\bin\Debug\net6.0\StronglyTypedViews.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\bin\Debug\net6.0\StronglyTypedViews.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.RazorAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.RazorAssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\staticwebassets\msbuild.StronglyTypedViews.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\staticwebassets\msbuild.build.StronglyTypedViews.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StronglyTypedViews.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StronglyTypedViews.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\scopedcss\bundle\StronglyTypedViews.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\refint\StronglyTypedViews.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\StronglyTypedViews\obj\Debug\net6.0\ref\StronglyTypedViews.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\bin\Debug\net6.0\StronglyTypedViews.staticwebassets.runtime.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\bin\Debug\net6.0\StronglyTypedViews.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\bin\Debug\net6.0\StronglyTypedViews.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\bin\Debug\net6.0\StronglyTypedViews.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\bin\Debug\net6.0\StronglyTypedViews.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\bin\Debug\net6.0\StronglyTypedViews.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.RazorAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.RazorAssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.sourcelink.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\staticwebassets\msbuild.StronglyTypedViews.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\staticwebassets\msbuild.build.StronglyTypedViews.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StronglyTypedViews.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StronglyTypedViews.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\scopedcss\bundle\StronglyTypedViews.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\refint\StronglyTypedViews.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\StronglyTypedViews.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\02. StronglyTypedViews\obj\Debug\net6.0\ref\StronglyTypedViews.dll

@@ -1,0 +1,19 @@
+﻿@model IEnumerable<string>
+@{
+    ViewBag.Title = "Home";
+}
+
+<h1>Cities</h1>
+
+<ul class="list">
+    @foreach(string city in Model)
+    {
+        <li>@city</li>
+    }
+</ul>
+
+@*Change the Service Scope (Transient, Scoped, Singleton) in program.cs file to see the change in object in browser*@
+
+<h3>Object 1: @ViewBag.InstanceId_CitiesService_1</h3>
+<h3>Object 2: @ViewBag.InstanceId_CitiesService_2</h3>
+<h3>Object 3: @ViewBag.InstanceId_CitiesService_3</h3>

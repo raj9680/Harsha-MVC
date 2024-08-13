@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AutoFac IOC.props" />
+</Project>

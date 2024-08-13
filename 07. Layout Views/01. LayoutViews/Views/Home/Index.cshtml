@@ -1,0 +1,19 @@
+﻿@using LayoutViews.Models;
+@model IEnumerable<PersonModel>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <h1>Home</h1>
+    @{
+        List<PersonModel>? people = (List<PersonModel>?)ViewData["people"];
+        
+        <p><strong>_Layout:</strong> carries common component of views.</p>
+        @foreach (PersonModel person in Model)
+        {
+            <a href="#!">@person.Name</a>
+            <span>, @person.DateOfBirth?.ToString("MM/dd/yyyy")</span>
+            <br />
+        }
+    }

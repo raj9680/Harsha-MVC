@@ -1,0 +1,20 @@
+﻿
+<h1>Home</h1>
+
+<button class="btn" type="button" id="btn-load">Call Partial View</button>
+
+<div class="programming-languages-content">
+    In this, the code will will come from controller to server & server will send the same code to View
+</div>
+
+@*
+    Steps: From controller, response will go to partial-view _List & then partial-view will get render in the index view returned from controller
+*@
+
+<script>
+    document.querySelector("#btn-load").addEventListener("click", async function() {
+        var response = await fetch("programming-languages"); // programming-languages is controller route
+        var languages = await response.text();
+        document.querySelector(".programming-languages-content").innerHTML = document.querySelector(".programming-languages-content").innerHTML + languages;
+    });
+</script>

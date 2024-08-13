@@ -1,0 +1,20 @@
+﻿
+<h1>Home</h1>
+@* Same model class & same partial view but different data *@
+<h3>No Data coming from Controller</h3>
+@{
+    ListModel listModel = new ListModel();
+    listModel.ListTitle = "Countries Title from About View";
+    listModel.ListItems = new List<string>() 
+    { 
+        "Usa", 
+        "Canada", 
+        "Japan", 
+        "Germany", 
+        "India" 
+    };
+}
+
+@*Model as listModel object i.e model="listModel"*@
+<partial name="_List" model="listModel"></partial>
+

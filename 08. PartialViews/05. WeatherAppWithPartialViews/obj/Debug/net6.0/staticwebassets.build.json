@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "2ntdnSY4EQR0Hp43FISpemCdB3wAx8RzLXyTnJu2DT0=",
+  "Source": "WeatherAppWithPartialViews",
+  "BasePath": "_content/WeatherAppWithPartialViews",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeatherAppWithPartialViews\\wwwroot",
+      "Source": "WeatherAppWithPartialViews",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\PartialViews\\WeatherAppWithPartialViews\\wwwroot\\",
+      "BasePath": "_content/WeatherAppWithPartialViews",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

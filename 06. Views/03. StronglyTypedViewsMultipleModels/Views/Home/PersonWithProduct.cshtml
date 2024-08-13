@@ -1,0 +1,33 @@
+﻿@using StronglyTypedViewsMultipleModels.Models.Wrappers;
+@model PersonAndProductWrapperModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Title</title>
+    <meta charset="utf-8" />
+    <link href="~/style.css" rel="stylesheet" />
+</head>
+<body>
+    <h1>Person with Product</h1>
+    <div>
+        <h2>Person</h2>
+        @foreach(var item in Model.PersonData)
+        {
+            <p>@item.Name</p>
+            <p>@item.PersonGender</p>
+            <p>@item.DateOfBirth</p>
+        }
+    </div>
+
+    <div>
+        <h2>Product</h2>
+        @foreach (var item in Model.ProductData)
+        {
+            <p>@item.ProductId</p>
+            <p>@item.ProductName</p>
+        }
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "f4buBQQBbIxMKogRP1UiCGV5AafPNSs5srHIbBodPVE=",
+  "Source": "Controllers",
+  "BasePath": "_content/Controllers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Controllers\\wwwroot",
+      "Source": "Controllers",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\04. Controllers & Results\\Controllers\\wwwroot\\",
+      "BasePath": "_content/Controllers",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\04. Controllers & Results\\Controllers\\wwwroot\\alcohol.png",
+      "SourceId": "Controllers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\04. Controllers & Results\\Controllers\\wwwroot\\",
+      "BasePath": "_content/Controllers",
+      "RelativePath": "alcohol.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\alcohol.png"
+    },
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\04. Controllers & Results\\Controllers\\wwwroot\\api.json",
+      "SourceId": "Controllers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\04. Controllers & Results\\Controllers\\wwwroot\\",
+      "BasePath": "_content/Controllers",
+      "RelativePath": "api.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api.json"
+    },
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\04. Controllers & Results\\Controllers\\wwwroot\\linq.pdf",
+      "SourceId": "Controllers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\04. Controllers & Results\\Controllers\\wwwroot\\",
+      "BasePath": "_content/Controllers",
+      "RelativePath": "linq.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\linq.pdf"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+﻿@using WeatherApp.Models;
+
+@model List<CityModel>
+
+@foreach(var city in Model)
+{
+    <h3>@city.CityUniqueCode</h3>
+    <p>@city.CityName - <span><a href="~/weather/@city.CityUniqueCode" style="text-decoration:none;"> View Details</a></span></p>
+    <p>@city.TemperatureFahrenheit</p>
+    <small>@city.DateAndTime</small><hr />
+}

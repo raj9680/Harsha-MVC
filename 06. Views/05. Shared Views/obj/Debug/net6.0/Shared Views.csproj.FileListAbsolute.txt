@@ -1,0 +1,58 @@
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\bin\Debug\net6.0\Shared Views.staticwebassets.runtime.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\bin\Debug\net6.0\Shared Views.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\bin\Debug\net6.0\Shared Views.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\bin\Debug\net6.0\Shared Views.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\bin\Debug\net6.0\Shared Views.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\bin\Debug\net6.0\Shared Views.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\Shared Views.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\Shared Views.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\Shared Views.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\Shared Views.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\Shared Views.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\Shared Views.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\Shared Views.RazorAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\Shared Views.RazorAssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\staticwebassets\msbuild.Shared Views.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\staticwebassets\msbuild.build.Shared Views.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Shared Views.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Shared Views.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\scopedcss\bundle\Shared Views.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\Shared Views.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\refint\Shared Views.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\Shared Views.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\Shared Views.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Views\Shared Views\obj\Debug\net6.0\ref\Shared Views.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\bin\Debug\net6.0\Shared Views.staticwebassets.runtime.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\bin\Debug\net6.0\Shared Views.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\bin\Debug\net6.0\Shared Views.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\bin\Debug\net6.0\Shared Views.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\bin\Debug\net6.0\Shared Views.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\bin\Debug\net6.0\Shared Views.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\Shared Views.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\Shared Views.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\Shared Views.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\Shared Views.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\Shared Views.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\Shared Views.RazorAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\Shared Views.RazorAssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\Shared Views.sourcelink.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\staticwebassets\msbuild.Shared Views.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\staticwebassets\msbuild.build.Shared Views.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Shared Views.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Shared Views.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\scopedcss\bundle\Shared Views.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\Shared Views.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\refint\Shared Views.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\Shared Views.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\Shared Views.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\06. Views\05. Shared Views\obj\Debug\net6.0\ref\Shared Views.dll

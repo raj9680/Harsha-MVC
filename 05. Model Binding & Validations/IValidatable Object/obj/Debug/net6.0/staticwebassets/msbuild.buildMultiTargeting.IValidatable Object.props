@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IValidatable Object.props" />
+</Project>

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\05. Configuration as Service\\Configuration as Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CED62B2B-B7E9-4162-95DE-F187C479E413}|Options Pattern.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\12. configuration\\05. configuration as service\\configuration as service\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED62B2B-B7E9-4162-95DE-F187C479E413}|Options Pattern.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED62B2B-B7E9-4162-95DE-F187C479E413}|Configuration as Service.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\12. configuration\\05. configuration as service\\configuration as service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED62B2B-B7E9-4162-95DE-F187C479E413}|Configuration as Service.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED62B2B-B7E9-4162-95DE-F187C479E413}|Options Pattern.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\12. configuration\\05. configuration as service\\configuration as service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CED62B2B-B7E9-4162-95DE-F187C479E413}|Options Pattern.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED62B2B-B7E9-4162-95DE-F187C479E413}|Options Pattern.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\12. configuration\\05. configuration as service\\configuration as service\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CED62B2B-B7E9-4162-95DE-F187C479E413}|Options Pattern.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED62B2B-B7E9-4162-95DE-F187C479E413}|Options Pattern.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\12. configuration\\05. configuration as service\\configuration as service\\weatherapioptionspattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED62B2B-B7E9-4162-95DE-F187C479E413}|Options Pattern.csproj|solutionrelative:weatherapioptionspattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\05. Configuration as Service\\Configuration as Service\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\05. Configuration as Service\\Configuration as Service\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:35:42.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\05. Configuration as Service\\Configuration as Service\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\05. Configuration as Service\\Configuration as Service\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T14:02:17.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\05. Configuration as Service\\Configuration as Service\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\05. Configuration as Service\\Configuration as Service\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T13:59:37.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherApiOptionsPattern.cs",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\05. Configuration as Service\\Configuration as Service\\WeatherApiOptionsPattern.cs",
+              "RelativeDocumentMoniker": "WeatherApiOptionsPattern.cs",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\05. Configuration as Service\\Configuration as Service\\WeatherApiOptionsPattern.cs",
+              "RelativeToolTip": "WeatherApiOptionsPattern.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T13:58:21.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\05. Configuration as Service\\Configuration as Service\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\05. Configuration as Service\\Configuration as Service\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T13:57:42.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

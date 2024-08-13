@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "/o2s1ZdlGACdmgCjj0BSPMTDorJKBD+WLJ4492dtig0=",
+  "Source": "Configuration Basics",
+  "BasePath": "_content/Configuration Basics",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Configuration Basics\\wwwroot",
+      "Source": "Configuration Basics",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\01. Configuration Basics\\Configuration Basics\\wwwroot\\",
+      "BasePath": "_content/Configuration Basics",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\01. Configuration Basics\\Configuration Basics\\wwwroot\\Stylesheet.css",
+      "SourceId": "Configuration Basics",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\01. Configuration Basics\\Configuration Basics\\wwwroot\\",
+      "BasePath": "_content/Configuration Basics",
+      "RelativePath": "Stylesheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Stylesheet.css"
+    }
+  ]
+}

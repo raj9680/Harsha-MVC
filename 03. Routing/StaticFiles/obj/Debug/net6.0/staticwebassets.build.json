@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "4/vbONwMNeqXrPla0B/9LBqz1TMA1iJXNcza6PNw/is=",
+  "Source": "StaticFiles",
+  "BasePath": "_content/StaticFiles",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StaticFiles\\wwwroot",
+      "Source": "StaticFiles",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\03. Routing\\StaticFiles\\wwwroot\\",
+      "BasePath": "_content/StaticFiles",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\03. Routing\\StaticFiles\\wwwroot\\image.jpg",
+      "SourceId": "StaticFiles",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\03. Routing\\StaticFiles\\wwwroot\\",
+      "BasePath": "_content/StaticFiles",
+      "RelativePath": "image.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image.jpg"
+    }
+  ]
+}

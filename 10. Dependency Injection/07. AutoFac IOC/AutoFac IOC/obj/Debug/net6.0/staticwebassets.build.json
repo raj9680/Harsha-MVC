@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "gz6gXvxAk87z6/I34+VYQxlpUsaUQanTLFywHCiYaF8=",
+  "Source": "AutoFac IOC",
+  "BasePath": "_content/AutoFac IOC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AutoFac IOC\\wwwroot",
+      "Source": "AutoFac IOC",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\10. Dependency Injection\\07. AutoFac IOC\\AutoFac IOC\\wwwroot\\",
+      "BasePath": "_content/AutoFac IOC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\10. Dependency Injection\\07. AutoFac IOC\\AutoFac IOC\\wwwroot\\Stylesheet.css",
+      "SourceId": "AutoFac IOC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\10. Dependency Injection\\07. AutoFac IOC\\AutoFac IOC\\wwwroot\\",
+      "BasePath": "_content/AutoFac IOC",
+      "RelativePath": "Stylesheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Stylesheet.css"
+    }
+  ]
+}

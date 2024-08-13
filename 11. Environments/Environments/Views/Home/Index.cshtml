@@ -1,0 +1,22 @@
+﻿@addTagHelper "*, Microsoft.AspNetCore.Mvc.TagHelpers"
+
+@model IEnumerable<string>
+@{
+    ViewBag.Title = "Home";
+}
+
+<h2 class="list">Environment: @ViewBag.Environment</h2>
+
+@*To Render Section based on Environment in View, Also to import taghelper as above*@
+
+<environment include="Development, Staging">
+<button class="button button-blue-back">Button only for Development Environment</button>
+</environment>
+
+<environment exclude="Beta">
+    <button class="button button-blue-back">Button Except for Beta Environment</button>
+</environment>
+
+
+
+

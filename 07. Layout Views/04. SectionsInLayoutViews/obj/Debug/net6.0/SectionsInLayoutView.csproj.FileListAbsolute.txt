@@ -1,0 +1,58 @@
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\bin\Debug\net6.0\SectionsInLayoutView.staticwebassets.runtime.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\bin\Debug\net6.0\SectionsInLayoutView.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\bin\Debug\net6.0\SectionsInLayoutView.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\bin\Debug\net6.0\SectionsInLayoutView.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\bin\Debug\net6.0\SectionsInLayoutView.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\bin\Debug\net6.0\SectionsInLayoutView.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.RazorAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.RazorAssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\staticwebassets\msbuild.SectionsInLayoutView.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\staticwebassets\msbuild.build.SectionsInLayoutView.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SectionsInLayoutView.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SectionsInLayoutView.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\scopedcss\bundle\SectionsInLayoutView.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\refint\SectionsInLayoutView.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Layout Views\SectionsInLayoutViews\obj\Debug\net6.0\ref\SectionsInLayoutView.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\bin\Debug\net6.0\SectionsInLayoutView.staticwebassets.runtime.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\bin\Debug\net6.0\SectionsInLayoutView.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\bin\Debug\net6.0\SectionsInLayoutView.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\bin\Debug\net6.0\SectionsInLayoutView.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\bin\Debug\net6.0\SectionsInLayoutView.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\bin\Debug\net6.0\SectionsInLayoutView.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.RazorAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.RazorAssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.sourcelink.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\staticwebassets\msbuild.SectionsInLayoutView.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\staticwebassets\msbuild.build.SectionsInLayoutView.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SectionsInLayoutView.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SectionsInLayoutView.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\scopedcss\bundle\SectionsInLayoutView.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\refint\SectionsInLayoutView.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\SectionsInLayoutView.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\07. Layout Views\04. SectionsInLayoutViews\obj\Debug\net6.0\ref\SectionsInLayoutView.dll

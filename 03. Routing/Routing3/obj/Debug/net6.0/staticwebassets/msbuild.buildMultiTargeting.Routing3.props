@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Routing3.props" />
+</Project>

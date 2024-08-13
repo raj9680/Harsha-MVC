@@ -1,0 +1,20 @@
+﻿@model IEnumerable<string>
+@{
+    ViewBag.Title = "Home";
+}
+
+<h1>Cities</h1><br />
+
+<ul class="list">
+    
+    <h3>Reading value as Options Pattern Secret Manager: 
+        <br /><code>@ViewBag.ClientID</code></h3>
+    <br />
+    <h3>Reading value as Options Pattern Secret Manager: 
+        <br /><code>@ViewBag.ClientSecret</code></h3>
+    <br />
+    @foreach(string city in Model)
+    {
+        <li>@city</li>
+    }
+</ul>

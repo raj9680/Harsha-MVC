@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "xjRTVislioOs1nFsoC6r+aEOn42rWmMRhknwjStRsTs=",
+  "Source": "SectionsInLayoutView",
+  "BasePath": "_content/SectionsInLayoutView",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SectionsInLayoutView\\wwwroot",
+      "Source": "SectionsInLayoutView",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\07. Layout Views\\04. SectionsInLayoutViews\\wwwroot\\",
+      "BasePath": "_content/SectionsInLayoutView",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\07. Layout Views\\04. SectionsInLayoutViews\\wwwroot\\StyleSheet.css",
+      "SourceId": "SectionsInLayoutView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\07. Layout Views\\04. SectionsInLayoutViews\\wwwroot\\",
+      "BasePath": "_content/SectionsInLayoutView",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

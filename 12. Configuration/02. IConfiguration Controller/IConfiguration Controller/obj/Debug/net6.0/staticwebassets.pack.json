@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\02. IConfiguration Controller\\IConfiguration Controller\\wwwroot\\Stylesheet.css",
+      "PackagePath": "staticwebassets\\Stylesheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.IConfiguration Controller.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.IConfiguration Controller.props",
+      "PackagePath": "build\\IConfiguration Controller.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.IConfiguration Controller.props",
+      "PackagePath": "buildMultiTargeting\\IConfiguration Controller.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.IConfiguration Controller.props",
+      "PackagePath": "buildTransitive\\IConfiguration Controller.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

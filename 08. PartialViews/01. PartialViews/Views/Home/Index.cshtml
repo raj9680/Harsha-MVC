@@ -1,0 +1,10 @@
+﻿<h1>Home</h1>
+
+<h3>Cities List From Partial Views</h3>
+<partial name="_List"></partial>
+
+@*
+Note: 
+<partial> is a tag helper and it is not default support provided, to make it work properly
+    we need to invoke using :@addTagHelper "*, Microsoft.AspNetCore.Mvc.TagHelpers" & it is called in _ViewImports.cshtml
+*@

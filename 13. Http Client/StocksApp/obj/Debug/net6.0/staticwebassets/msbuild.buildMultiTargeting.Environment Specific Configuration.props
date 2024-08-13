@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Environment Specific Configuration.props" />
+</Project>

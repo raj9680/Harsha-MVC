@@ -1,0 +1,8 @@
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\ViewComponentsWithViewData\obj\Release\net6.0\ViewComponentsWithViewData.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\ViewComponentsWithViewData\obj\Release\net6.0\ViewComponentsWithViewData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\ViewComponentsWithViewData\obj\Release\net6.0\ViewComponentsWithViewData.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\ViewComponentsWithViewData\obj\Release\net6.0\ViewComponentsWithViewData.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\ViewComponentsWithViewData\obj\Release\net6.0\ViewComponentsWithViewData.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\ViewComponentsWithViewData\obj\Release\net6.0\ViewComponentsWithViewData.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\ViewComponentsWithViewData\obj\Release\net6.0\ViewComponentsWithViewData.RazorAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\ViewComponentsWithViewData\obj\Release\net6.0\ViewComponentsWithViewData.RazorAssemblyInfo.cs

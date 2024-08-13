@@ -1,0 +1,32 @@
+﻿<h1>Home</h1>
+
+<h3>Cities List Data Setting to From Partial Views from Controller</h3>
+<partial name="_List"></partial>
+
+@{
+    var myViewData = new ViewDataDictionary(ViewData);
+
+    myViewData["ListItems"] = new List<string>()
+    { 
+        "USA", "Canada", "Japan", "Germany", "India"
+    };
+
+    //ViewData["ListItems"] = new List<string>()
+    //{
+    //    "USA", "Canada", "Japan", "Germany", "India"
+    //};
+}
+
+
+<div>
+    @*with different object as view-data="myViewData"*@
+    <partial name="_List" view-data="myViewData"></partial>
+</div>
+
+@*OR*@
+
+@*@{
+    await Html.RenderPartialAsync("partial view name", ViewData); 
+}*@
+
+<h3>List Title from Controller to View: @ViewData["ListTitle"]</h3>

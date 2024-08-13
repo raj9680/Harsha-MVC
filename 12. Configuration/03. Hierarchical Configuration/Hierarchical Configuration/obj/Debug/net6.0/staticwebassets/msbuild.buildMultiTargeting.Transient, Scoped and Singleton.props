@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Transient, Scoped and Singleton.props" />
+</Project>

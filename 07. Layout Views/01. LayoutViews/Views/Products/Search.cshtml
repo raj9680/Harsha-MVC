@@ -1,0 +1,10 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    if(ViewBag.ProductID != null)
+    {
+        Layout = "~/Views/Shared/_Layout2.cshtml";
+    }
+}
+
+To see dynamic url based on ID: <a href="/search-products/2"> click here</a>

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "el87A/smY6rd+GX5IV5s31c/9xftEpnB8xN+CMbW5aU=",
+  "Source": "ViewDataInLayoutViews",
+  "BasePath": "_content/ViewDataInLayoutViews",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ViewDataInLayoutViews\\wwwroot",
+      "Source": "ViewDataInLayoutViews",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Layout Views\\ViewDataInLayoutViews\\wwwroot\\",
+      "BasePath": "_content/ViewDataInLayoutViews",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

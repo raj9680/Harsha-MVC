@@ -1,0 +1,58 @@
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\bin\Debug\net6.0\ViewComponentWithParameters.staticwebassets.runtime.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\bin\Debug\net6.0\ViewComponentWithParameters.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\bin\Debug\net6.0\ViewComponentWithParameters.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\bin\Debug\net6.0\ViewComponentWithParameters.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\bin\Debug\net6.0\ViewComponentWithParameters.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\bin\Debug\net6.0\ViewComponentWithParameters.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.RazorAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.RazorAssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\staticwebassets\msbuild.ViewComponentWithParameters.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\staticwebassets\msbuild.build.ViewComponentWithParameters.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ViewComponentWithParameters.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ViewComponentWithParameters.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\scopedcss\bundle\ViewComponentWithParameters.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\refint\ViewComponentWithParameters.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ref\ViewComponentWithParameters.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\bin\Debug\net6.0\ViewComponentWithParameters.staticwebassets.runtime.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\bin\Debug\net6.0\ViewComponentWithParameters.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\bin\Debug\net6.0\ViewComponentWithParameters.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\bin\Debug\net6.0\ViewComponentWithParameters.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\bin\Debug\net6.0\ViewComponentWithParameters.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\bin\Debug\net6.0\ViewComponentWithParameters.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.RazorAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.RazorAssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.sourcelink.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\staticwebassets\msbuild.ViewComponentWithParameters.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\staticwebassets\msbuild.build.ViewComponentWithParameters.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ViewComponentWithParameters.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ViewComponentWithParameters.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\scopedcss\bundle\ViewComponentWithParameters.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\refint\ViewComponentWithParameters.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ViewComponentWithParameters.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\09. View Components\04. ViewComponentWithParameters\obj\Debug\net6.0\ref\ViewComponentWithParameters.dll

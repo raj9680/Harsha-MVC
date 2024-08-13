@@ -1,0 +1,13 @@
+﻿﻿
+@model PersonModel;
+
+@if (Model != null)
+{
+    <p>@Model.Name</p>
+    <p>@Model.PersonGender</p>
+    <p>@Model.DateOfBirth</p>
+}
+else
+{
+    <p>No records found.</p>
+}

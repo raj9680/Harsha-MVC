@@ -1,0 +1,27 @@
+﻿﻿
+@model IEnumerable<PersonModel>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["appTitle"]</title>
+    <meta charset="utf-8" />
+    <link href="~/style.css" rel="stylesheet" />
+</head>
+<body>
+    <h1>Hello</h1>
+    @{
+        List<PersonModel>? people = (List<PersonModel>?)ViewData["people"];
+        
+        // Strongly Typed Views
+        <p><strong>Strongly Typed Views:</strong> Directly map model object to Model</p>
+        @foreach (PersonModel person in Model)
+        {
+            <a href="/person/@person.Name">@person.Name</a>
+            <span>, @person.DateOfBirth?.ToString("MM/dd/yyyy")</span>
+            <br />
+            <a href="/person-with-product">Person with Product</a>
+        }
+    }
+</body>
+</html>

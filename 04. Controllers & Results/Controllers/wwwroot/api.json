@@ -1,0 +1,138 @@
+{
+  "result": {
+    "totalTitle": 106,
+    "guidanceTitleList": [
+      {
+        "_Id": "64faeba9ba8c570da874482c",
+        "title": "tersttt",
+        "guidenceStepId": null,
+        "createDate": "2023-09-08T09:38:49.928Z",
+        "category": {
+          "_Id": "64faebceba8c570da8744861",
+          "name": "Yes_Bank"
+        },
+        "keywords": null,
+        "version": null
+      },
+      {
+        "_Id": "6479e406ba8c8d2e4c6c0ea9",
+        "title": "test dt summ",
+        "guidenceStepId": null,
+        "createDate": "2023-06-02T12:43:50.237Z",
+        "category": {
+          "_Id": "6479e471ba8c8d2e4c6c0edc",
+          "name": "Logistics"
+        },
+        "keywords": null,
+        "version": null
+      },
+      {
+        "_Id": "6467172fba8c588ad0051494",
+        "title": "testss",
+        "guidenceStepId": null,
+        "createDate": "2023-05-19T06:29:03.285Z",
+        "category": {
+          "_Id": "6467174aba8c588ad005149a",
+          "name": "Logistics"
+        },
+        "keywords": null,
+        "version": null
+      },
+      {
+        "_Id": "64ba3074ba8c6c15bc46f5fa",
+        "title": "Select state Horizontal Btn",
+        "guidenceStepId": null,
+        "createDate": "2023-05-04T09:37:32.798Z",
+        "category": {
+          "_Id": "64ba3159ba8c6c15bc46f65c",
+          "name": "Logistics"
+        },
+        "keywords": null,
+        "version": null
+      },
+      {
+        "_Id": "64537eba2a11d240945e10f2",
+        "title": "Select state imae theme Btn",
+        "guidenceStepId": null,
+        "createDate": "2023-05-04T09:37:32.798Z",
+        "category": {
+          "_Id": "64537ece2a11d240945e1153",
+          "name": "Logistics"
+        },
+        "keywords": null,
+        "version": null
+      },
+      {
+        "_Id": "6450c945ba8c6d22f49d4a83",
+        "title": "Dropdown Down Theme",
+        "guidenceStepId": null,
+        "createDate": "2023-05-02T08:26:45.718Z",
+        "category": {
+          "_Id": "6450c9a9ba8c6d22f49d4ab5",
+          "name": "Logistics"
+        },
+        "keywords": null,
+        "version": null
+      },
+      {
+        "_Id": "644f6c87ba8c677d80d2ac1a",
+        "title": "DT 2.0 TESTR",
+        "guidenceStepId": null,
+        "createDate": "2023-05-01T07:31:03.002Z",
+        "category": {
+          "_Id": "644f6dceba8c677d80d2ac74",
+          "name": "Logistics"
+        },
+        "keywords": null,
+        "version": null
+      },
+      {
+        "_Id": "644bb2602a11d31edcfb192c",
+        "title": "Default Theme Decision Tree",
+        "guidenceStepId": null,
+        "createDate": "2023-04-28T10:55:57.155Z",
+        "category": {
+          "_Id": "644bb5462a11d31edcfb1979",
+          "name": "Default theme dt"
+        },
+        "keywords": null,
+        "version": null
+      },
+      {
+        "_Id": "644922522a11d5190c1fd0f8",
+        "title": "Sample Quiz dt1",
+        "guidenceStepId": null,
+        "createDate": "2023-04-26T13:08:34.095Z",
+        "category": {
+          "_Id": "644922c52a11d5190c1fd106",
+          "name": "Sample Quiz 2"
+        },
+        "keywords": null,
+        "version": null
+      },
+      {
+        "_Id": "64492abc2a11d5190c1fd13c",
+        "title": "Image theme with black color When you buy a new computer, the first thing you’ll probably try to do is connect to the Internet. To do this, you establish a connection to your router",
+        "guidenceStepId": null,
+        "createDate": "2023-04-26T11:25:47.39Z",
+        "category": {
+          "_Id": "64492bb72a11d5190c1fd1b5",
+          "name": "Test 2"
+        },
+        "keywords": null,
+        "version": {
+          "version": 2,
+          "versionName": "v2",
+          "contentId": "64492abc2a11d5190c1fd13c",
+          "createdDate": "2023-04-26T11:25:47.39Z",
+          "modifiedDate": "2023-04-26T13:49:00.783Z",
+          "baseContentId": null
+        }
+      }
+    ]
+  },
+  "statusCode": 200,
+  "error": {
+    "messages": []
+  }
+}

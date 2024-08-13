@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "H2Wxj7yKK1U2EPGfRbFd7mxWZsdIL64TeS/TDb/C7mU=",
+  "Source": "Options Pattern",
+  "BasePath": "_content/Options Pattern",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Options Pattern\\wwwroot",
+      "Source": "Options Pattern",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\04. Options Pattern\\Options Pattern\\wwwroot\\",
+      "BasePath": "_content/Options Pattern",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\04. Options Pattern\\Options Pattern\\wwwroot\\Stylesheet.css",
+      "SourceId": "Options Pattern",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\04. Options Pattern\\Options Pattern\\wwwroot\\",
+      "BasePath": "_content/Options Pattern",
+      "RelativePath": "Stylesheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Stylesheet.css"
+    }
+  ]
+}

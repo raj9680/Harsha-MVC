@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Form Url-Encoded and FormData.props" />
+</Project>

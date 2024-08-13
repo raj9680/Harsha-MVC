@@ -1,0 +1,122 @@
+﻿@using ViewsExample.Models;
+
+@{
+    string appTitle = "Asp.NetCore App";
+    PersonModel person = new PersonModel()
+    { 
+        Name = "Raj", 
+        DateOfBirth = Convert.ToDateTime("2000-07-01"),
+        PersonGender = Gender.Male
+    };
+
+    List<PersonModel> people = new List<PersonModel>()
+    {
+        new PersonModel()
+        {
+            Name="Shivam",
+            DateOfBirth=Convert.ToDateTime("16-04-2000"),
+            PersonGender=Gender.Male
+        },
+        new PersonModel()
+        {
+            Name="Shivani",
+            DateOfBirth=Convert.ToDateTime("16-04-2002"),
+            PersonGender=Gender.Female
+        },
+        new PersonModel()
+        {
+            Name="Raj",
+            DateOfBirth=Convert.ToDateTime("16-04-1998"),
+            PersonGender=Gender.Male
+        }
+    };
+}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>@appTitle</title>
+    <meta charset="utf-8" />
+    </head>
+    <body>
+        <h1>@person.Name Welcome</h1>
+
+        <code>If else condition</code>
+        @if (person.DateOfBirth.HasValue)
+        {
+            double age = Math.Round((DateTime.Now - person.DateOfBirth).Value.TotalDays / 365.25);
+        <h2>@age years old</h2>
+        }
+        else
+        {
+        <h2>Date of birth is not given</h2>
+        }
+
+    <code>Switch statement</code>
+    @switch (person.PersonGender)
+    {
+        case Gender.Male:
+            <p>This is Male</p>;
+            break;
+        case Gender.Female:
+            <p>This is Female</p>;
+            break;
+        default:
+            <p>This is Other</p>;
+            break;
+    }
+
+    <code>Foreach Loop</code>
+    @foreach(var item in people)
+    {
+        <p>@item.Name</p>
+        <p>@item.PersonGender</p>
+    }
+
+    <sub>For Loop</sub>
+    @for(var i = 1; i<people.Count(); i++)
+    {
+        @: Hello to <br/>
+        @*or <text>Hello to </text>*@
+        <p>
+            @people[i].Name <span>, </span><br />@people[i].PersonGender
+        </p>
+        <span>Age from local function: @GetAge(people[i].DateOfBirth); <br></span>
+    }
+
+    <sub>Local function</sub>
+    @{
+        // local function : should be accessible within the current .cshtml file
+        double? GetAge(DateTime? dateOfBirth)
+        {
+            if(dateOfBirth is not null)
+            {
+                return Math.Round((DateTime.Now - dateOfBirth.Value).TotalDays/365.25);
+            }
+            else
+            {
+                return null;
+            }
+        }
+    }
+
+    @{
+        // method
+        double? GetAgee(DateTime? dateOfBirth)
+        {
+            if (dateOfBirth is not null)
+            {
+                return Math.Round((DateTime.Now - dateOfBirth.Value).TotalDays / 365.25);
+            }
+            else
+            {
+                return null;
+            }
+        }
+
+        string alertMessage = $"<script>alert('{people.Count} people found')</script>";
+    }
+
+    @Html.Raw(alertMessage);
+</body>
+</html>

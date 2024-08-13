@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\03. Hierarchical Configuration\\Hierarchical Configuration\\wwwroot\\Stylesheet.css",
+      "PackagePath": "staticwebassets\\Stylesheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Hierarchical Configuration.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Hierarchical Configuration.props",
+      "PackagePath": "build\\Hierarchical Configuration.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Hierarchical Configuration.props",
+      "PackagePath": "buildMultiTargeting\\Hierarchical Configuration.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Hierarchical Configuration.props",
+      "PackagePath": "buildTransitive\\Hierarchical Configuration.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

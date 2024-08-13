@@ -1,0 +1,54 @@
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\bin\Debug\net6.0\Controllers.staticwebassets.runtime.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\bin\Debug\net6.0\Controllers.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\bin\Debug\net6.0\Controllers.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\bin\Debug\net6.0\Controllers.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\bin\Debug\net6.0\Controllers.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\bin\Debug\net6.0\Controllers.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\obj\Debug\net6.0\Controllers.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\obj\Debug\net6.0\Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\obj\Debug\net6.0\Controllers.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\obj\Debug\net6.0\Controllers.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\obj\Debug\net6.0\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\obj\Debug\net6.0\Controllers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\obj\Debug\net6.0\staticwebassets\msbuild.Controllers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\obj\Debug\net6.0\staticwebassets\msbuild.build.Controllers.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Controllers.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Controllers.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\obj\Debug\net6.0\scopedcss\bundle\Controllers.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\obj\Debug\net6.0\Controllers.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\obj\Debug\net6.0\refint\Controllers.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\obj\Debug\net6.0\Controllers.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\obj\Debug\net6.0\Controllers.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\Controllers & Results\Controllers\obj\Debug\net6.0\ref\Controllers.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\bin\Debug\net6.0\Controllers.staticwebassets.runtime.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\bin\Debug\net6.0\Controllers.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\bin\Debug\net6.0\Controllers.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\bin\Debug\net6.0\Controllers.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\bin\Debug\net6.0\Controllers.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\bin\Debug\net6.0\Controllers.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\obj\Debug\net6.0\Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\obj\Debug\net6.0\Controllers.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\obj\Debug\net6.0\Controllers.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\obj\Debug\net6.0\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\obj\Debug\net6.0\Controllers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\obj\Debug\net6.0\Controllers.sourcelink.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\obj\Debug\net6.0\staticwebassets\msbuild.Controllers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\obj\Debug\net6.0\staticwebassets\msbuild.build.Controllers.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Controllers.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Controllers.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\obj\Debug\net6.0\scopedcss\bundle\Controllers.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\obj\Debug\net6.0\Controllers.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\obj\Debug\net6.0\refint\Controllers.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\obj\Debug\net6.0\Controllers.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\obj\Debug\net6.0\Controllers.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\04. Controllers & Results\Controllers\obj\Debug\net6.0\ref\Controllers.dll

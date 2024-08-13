@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5RnwF1ZEgkdWpN3X5Dts71TcBuWz8z4wJ2l7AwpDLn8=",
+  "Source": "_ViewImports",
+  "BasePath": "_content/_ViewImports",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "_ViewImports\\wwwroot",
+      "Source": "_ViewImports",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Views\\_ViewImports\\wwwroot\\",
+      "BasePath": "_content/_ViewImports",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

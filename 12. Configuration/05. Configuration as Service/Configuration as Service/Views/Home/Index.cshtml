@@ -1,0 +1,17 @@
+﻿@model IEnumerable<string>
+@{
+    ViewBag.Title = "Home";
+}
+
+<h1>Cities</h1><br />
+
+<ul class="list">
+    
+    <h3>Reading value as Options Pattern appsettings.json from controller using Get Section: ViewBag.ClientID</h3><br />
+    <h3>Reading value as Options Pattern appsettings.json from controller using Get Section: ViewBag.ClientSecret</h3>
+    <br />
+    @foreach(string city in Model)
+    {
+        <li>@city</li>
+    }
+</ul>

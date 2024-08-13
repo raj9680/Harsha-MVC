@@ -1,0 +1,37 @@
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\bin\Debug\net6.0\AutoFac IOC.staticwebassets.runtime.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\bin\Debug\net6.0\AutoFac IOC.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\bin\Debug\net6.0\AutoFac IOC.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\bin\Debug\net6.0\AutoFac IOC.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\bin\Debug\net6.0\AutoFac IOC.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\bin\Debug\net6.0\AutoFac IOC.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\bin\Debug\net6.0\Autofac.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\bin\Debug\net6.0\ServiceContracts.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\bin\Debug\net6.0\Services.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\bin\Debug\net6.0\ServiceContracts.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\bin\Debug\net6.0\Services.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\AutoFac IOC.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\AutoFac IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\AutoFac IOC.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\AutoFac IOC.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\AutoFac IOC.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\AutoFac IOC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\AutoFac IOC.RazorAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\AutoFac IOC.RazorAssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\AutoFac IOC.sourcelink.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\staticwebassets\msbuild.AutoFac IOC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\staticwebassets\msbuild.build.AutoFac IOC.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AutoFac IOC.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AutoFac IOC.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\scopedcss\bundle\AutoFac IOC.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\AutoFac .072D7DEA.Up2Date
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\AutoFac IOC.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\refint\AutoFac IOC.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\AutoFac IOC.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\AutoFac IOC.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\07. AutoFac IOC\AutoFac IOC\obj\Debug\net6.0\ref\AutoFac IOC.dll

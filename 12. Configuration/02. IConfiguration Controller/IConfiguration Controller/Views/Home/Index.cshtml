@@ -1,0 +1,15 @@
+﻿@model IEnumerable<string>
+@{
+    ViewBag.Title = "Home";
+}
+
+<h1>Cities</h1><br />
+
+<ul class="list">
+    <h3>Configuration reading from Controller: @ViewBag.MyKey</h3><br />
+    <h3>Configuration reading from Controller with default value: @ViewBag.Default</h3><br />
+    @foreach(string city in Model)
+    {
+        <li>@city</li>
+    }
+</ul>

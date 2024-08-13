@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AzqO3QzyVByPaDaLiBHRw950+5gr+NunUXoVzC5PqTU=",
+  "Source": "CustomModelBinder",
+  "BasePath": "_content/CustomModelBinder",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

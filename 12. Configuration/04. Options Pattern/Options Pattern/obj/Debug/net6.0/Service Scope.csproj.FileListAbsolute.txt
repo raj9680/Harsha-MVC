@@ -1,0 +1,35 @@
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\bin\Debug\net6.0\Service Scope.staticwebassets.runtime.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\bin\Debug\net6.0\Service Scope.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\bin\Debug\net6.0\Service Scope.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\bin\Debug\net6.0\Service Scope.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\bin\Debug\net6.0\Service Scope.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\bin\Debug\net6.0\Service Scope.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\bin\Debug\net6.0\ServiceContracts.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\bin\Debug\net6.0\Services.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\bin\Debug\net6.0\ServiceContracts.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\bin\Debug\net6.0\Services.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\Service Scope.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\Service Scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\Service Scope.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\Service Scope.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\Service Scope.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\Service Scope.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\Service Scope.RazorAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\Service Scope.RazorAssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\Service Scope.sourcelink.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\staticwebassets\msbuild.Service Scope.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\staticwebassets\msbuild.build.Service Scope.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Service Scope.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Service Scope.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\scopedcss\bundle\Service Scope.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\Service .A4F4710F.Up2Date
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\Service Scope.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\refint\Service Scope.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\Service Scope.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\Service Scope.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\10. Dependency Injection\04. Service Scope\Service Scope\obj\Debug\net6.0\ref\Service Scope.dll

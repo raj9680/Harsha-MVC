@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "EUV7R6IW1cfV/An4d2iAnN/icl6PIfYI1yuc9usr/dk=",
+  "Source": "_ViewStart",
+  "BasePath": "_content/_ViewStart",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "_ViewStart\\wwwroot",
+      "Source": "_ViewStart",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Layout Views\\_ViewStart\\wwwroot\\",
+      "BasePath": "_content/_ViewStart",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Layout Views\\_ViewStart\\wwwroot\\StyleSheet.css",
+      "SourceId": "_ViewStart",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Layout Views\\_ViewStart\\wwwroot\\",
+      "BasePath": "_content/_ViewStart",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\bin\Debug\net6.0\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\bin\Debug\net6.0\Configuration Basics.staticwebassets.runtime.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\bin\Debug\net6.0\Configuration Basics.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\bin\Debug\net6.0\Configuration Basics.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\bin\Debug\net6.0\Configuration Basics.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\bin\Debug\net6.0\Configuration Basics.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\bin\Debug\net6.0\Configuration Basics.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\bin\Debug\net6.0\Autofac.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\bin\Debug\net6.0\ServiceContracts.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\bin\Debug\net6.0\Services.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\bin\Debug\net6.0\ServiceContracts.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\bin\Debug\net6.0\Services.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\Configuration Basics.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\Configuration Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\Configuration Basics.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\Configuration Basics.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\Configuration Basics.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\Configuration Basics.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\Configuration Basics.RazorAssemblyInfo.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\Configuration Basics.RazorAssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\Configuration Basics.sourcelink.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\staticwebassets\msbuild.Configuration Basics.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\staticwebassets\msbuild.build.Configuration Basics.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Configuration Basics.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Configuration Basics.props
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\scopedcss\bundle\Configuration Basics.styles.css
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\Configur.FB02F9E7.Up2Date
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\Configuration Basics.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\refint\Configuration Basics.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\Configuration Basics.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\Configuration Basics.genruntimeconfig.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\12. Configuration\01. Configuration Basics\Configuration Basics\obj\Debug\net6.0\ref\Configuration Basics.dll

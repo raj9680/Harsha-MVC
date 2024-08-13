@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Model Binding & Validations/1.0.0": {
+        "runtime": {
+          "Model Binding & Validations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Model Binding & Validations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

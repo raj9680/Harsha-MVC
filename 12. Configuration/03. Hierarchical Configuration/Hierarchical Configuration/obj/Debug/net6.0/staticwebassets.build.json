@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "yFDwYDGeM8VLWdNgpEwjKAJ+/SFZhrEEiwI8njponyc=",
+  "Source": "Hierarchical Configuration",
+  "BasePath": "_content/Hierarchical Configuration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Hierarchical Configuration\\wwwroot",
+      "Source": "Hierarchical Configuration",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\03. Hierarchical Configuration\\Hierarchical Configuration\\wwwroot\\",
+      "BasePath": "_content/Hierarchical Configuration",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\03. Hierarchical Configuration\\Hierarchical Configuration\\wwwroot\\Stylesheet.css",
+      "SourceId": "Hierarchical Configuration",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\03. Hierarchical Configuration\\Hierarchical Configuration\\wwwroot\\",
+      "BasePath": "_content/Hierarchical Configuration",
+      "RelativePath": "Stylesheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Stylesheet.css"
+    }
+  ]
+}

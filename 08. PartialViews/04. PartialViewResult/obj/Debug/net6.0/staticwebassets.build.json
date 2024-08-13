@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "z1QdvCXxj3phFCczT9CxknX5veY+uhfiTcKsXe1aY5k=",
+  "Source": "PartialViewResult",
+  "BasePath": "_content/PartialViewResult",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PartialViewResult\\wwwroot",
+      "Source": "PartialViewResult",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\08. PartialViews\\04. PartialViewResult\\wwwroot\\",
+      "BasePath": "_content/PartialViewResult",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\08. PartialViews\\04. PartialViewResult\\wwwroot\\StyleSheet.css",
+      "SourceId": "PartialViewResult",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\08. PartialViews\\04. PartialViewResult\\wwwroot\\",
+      "BasePath": "_content/PartialViewResult",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

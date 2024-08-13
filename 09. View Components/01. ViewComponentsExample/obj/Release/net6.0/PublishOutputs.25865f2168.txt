@@ -1,0 +1,7 @@
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\ViewComponentsExample\obj\Release\net6.0\PubTmp\Out\ViewComponentsExample.exe
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\ViewComponentsExample\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\ViewComponentsExample\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\ViewComponentsExample\obj\Release\net6.0\PubTmp\Out\ViewComponentsExample.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\ViewComponentsExample\obj\Release\net6.0\PubTmp\Out\ViewComponentsExample.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\ViewComponentsExample\obj\Release\net6.0\PubTmp\Out\ViewComponentsExample.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\View Components\ViewComponentsExample\obj\Release\net6.0\PubTmp\Out\ViewComponentsExample.pdb

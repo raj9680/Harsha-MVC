@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "mxHUpxRdXbtZgRkKRctK5/pdlfBfIAaeCaKDKrswK5U=",
+  "Source": "StronglyTypedViewComponents",
+  "BasePath": "_content/StronglyTypedViewComponents",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StronglyTypedViewComponents\\wwwroot",
+      "Source": "StronglyTypedViewComponents",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\View Components\\03. StronglyTypedViewComponents\\wwwroot\\",
+      "BasePath": "_content/StronglyTypedViewComponents",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\View Components\\03. StronglyTypedViewComponents\\wwwroot\\StyleSheet.css",
+      "SourceId": "StronglyTypedViewComponents",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\View Components\\03. StronglyTypedViewComponents\\wwwroot\\",
+      "BasePath": "_content/StronglyTypedViewComponents",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

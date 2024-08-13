@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\09. View Components\\02. ViewComponentsWithViewData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89160-033F-460A-8B3C-AA6272362F76}|ViewComponentsWithViewData.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\09. view components\\02. viewcomponentswithviewdata\\models\\persongridmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B89160-033F-460A-8B3C-AA6272362F76}|ViewComponentsWithViewData.csproj|solutionrelative:models\\persongridmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89160-033F-460A-8B3C-AA6272362F76}|ViewComponentsWithViewData.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\09. view components\\02. viewcomponentswithviewdata\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B89160-033F-460A-8B3C-AA6272362F76}|ViewComponentsWithViewData.csproj|solutionrelative:models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\09. View Components\\02. ViewComponentsWithViewData\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "Models\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\09. View Components\\02. ViewComponentsWithViewData\\Models\\PersonModel.cs",
+              "RelativeToolTip": "Models\\PersonModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:41:51.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonGridModel.cs",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\09. View Components\\02. ViewComponentsWithViewData\\Models\\PersonGridModel.cs",
+              "RelativeDocumentMoniker": "Models\\PersonGridModel.cs",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\09. View Components\\02. ViewComponentsWithViewData\\Models\\PersonGridModel.cs",
+              "RelativeToolTip": "Models\\PersonGridModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:41:44.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

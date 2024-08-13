@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\IValidatable Object\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DD6E6C-CC68-42B4-96F5-F0A7809197A3}|IValidatable Object.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\05. model binding \u0026 validations\\ivalidatable object\\controllers\\bindunbindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DD6E6C-CC68-42B4-96F5-F0A7809197A3}|IValidatable Object.csproj|solutionrelative:controllers\\bindunbindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DD6E6C-CC68-42B4-96F5-F0A7809197A3}|IValidatable Object.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\05. model binding \u0026 validations\\ivalidatable object\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DD6E6C-CC68-42B4-96F5-F0A7809197A3}|IValidatable Object.csproj|solutionrelative:models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BindUnbindController.cs",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\IValidatable Object\\Controllers\\BindUnbindController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BindUnbindController.cs",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\IValidatable Object\\Controllers\\BindUnbindController.cs",
+              "RelativeToolTip": "Controllers\\BindUnbindController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:41:06.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\IValidatable Object\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "Models\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\05. Model Binding \u0026 Validations\\IValidatable Object\\Models\\PersonModel.cs",
+              "RelativeToolTip": "Models\\PersonModel.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:29:52.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

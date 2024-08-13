@@ -1,0 +1,15 @@
+﻿<div class="container">
+    <h3>Updated Cities List Data in Partial View</h3>
+
+    <h3>@ViewBag.ListTitle</h3>
+    
+    <ul>
+        @foreach(var item in ViewBag.ListItems)
+        {
+            ViewData["ListTitle"] = "Updated Title";
+            <li>@item</li>
+        }
+    </ul>
+
+    <h3>List Title from Controller to Partial View: @ViewData["ListTitle"]</h3>
+</div>

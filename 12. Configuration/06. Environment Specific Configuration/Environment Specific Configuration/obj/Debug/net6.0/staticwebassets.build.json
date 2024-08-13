@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "gzprpFJ5m6inSz+2ZMvBRg3CA+Z5KtuuZ8t/ZYD/qjc=",
+  "Source": "Environment Specific Configuration",
+  "BasePath": "_content/Environment Specific Configuration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Environment Specific Configuration\\wwwroot",
+      "Source": "Environment Specific Configuration",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\06. Environment Specific Configuration\\Environment Specific Configuration\\wwwroot\\",
+      "BasePath": "_content/Environment Specific Configuration",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\06. Environment Specific Configuration\\Environment Specific Configuration\\wwwroot\\Stylesheet.css",
+      "SourceId": "Environment Specific Configuration",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\06. Environment Specific Configuration\\Environment Specific Configuration\\wwwroot\\",
+      "BasePath": "_content/Environment Specific Configuration",
+      "RelativePath": "Stylesheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Stylesheet.css"
+    }
+  ]
+}

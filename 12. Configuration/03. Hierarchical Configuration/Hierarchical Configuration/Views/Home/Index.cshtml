@@ -1,0 +1,18 @@
+﻿@model IEnumerable<string>
+@{
+    ViewBag.Title = "Home";
+}
+
+<h1>Cities</h1><br />
+
+<ul class="list">
+    <h3>Reading value of hierarchical of appsettings.json from controller: @ViewBag.ClientId</h3><br />
+    <h3>Reading value of hierarchical of appsettings.json from controller: @ViewBag.ClientSecret</h3><br />
+    
+    <h3>Reading value of hierarchical of appsettings.json from controller using Get Section: @ViewBag.Section</h3>
+    <br />
+    @foreach(string city in Model)
+    {
+        <li>@city</li>
+    }
+</ul>

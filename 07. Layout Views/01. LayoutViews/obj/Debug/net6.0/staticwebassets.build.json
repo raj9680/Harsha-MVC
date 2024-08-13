@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "iK8qjs0X68DY4iC3+RoZ+N80NrQ47E7fo0Y4xSK2a+0=",
+  "Source": "LayoutViews",
+  "BasePath": "_content/LayoutViews",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LayoutViews\\wwwroot",
+      "Source": "LayoutViews",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\07. Layout Views\\01. LayoutViews\\wwwroot\\",
+      "BasePath": "_content/LayoutViews",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\07. Layout Views\\01. LayoutViews\\wwwroot\\StyleSheet.css",
+      "SourceId": "LayoutViews",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\07. Layout Views\\01. LayoutViews\\wwwroot\\",
+      "BasePath": "_content/LayoutViews",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

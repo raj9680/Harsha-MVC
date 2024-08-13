@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\08. Custom Json Configuration\\Custom Json Configuration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CED62B2B-B7E9-4162-95DE-F187C479E413}|Custom Json Configuration.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\12. configuration\\08. custom json configuration\\custom json configuration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED62B2B-B7E9-4162-95DE-F187C479E413}|Custom Json Configuration.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED62B2B-B7E9-4162-95DE-F187C479E413}|Custom Json Configuration.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\12. configuration\\08. custom json configuration\\custom json configuration\\mycustomconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CED62B2B-B7E9-4162-95DE-F187C479E413}|Custom Json Configuration.csproj|solutionrelative:mycustomconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED62B2B-B7E9-4162-95DE-F187C479E413}|Custom Json Configuration.csproj|c:\\users\\raj.kumar\\desktop\\harsha-mvc\\12. configuration\\08. custom json configuration\\custom json configuration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CED62B2B-B7E9-4162-95DE-F187C479E413}|Custom Json Configuration.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\08. Custom Json Configuration\\Custom Json Configuration\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\08. Custom Json Configuration\\Custom Json Configuration\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:49:28.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCustomConfig.json",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\08. Custom Json Configuration\\Custom Json Configuration\\MyCustomConfig.json",
+              "RelativeDocumentMoniker": "MyCustomConfig.json",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\08. Custom Json Configuration\\Custom Json Configuration\\MyCustomConfig.json",
+              "RelativeToolTip": "MyCustomConfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T11:47:57.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\08. Custom Json Configuration\\Custom Json Configuration\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\08. Custom Json Configuration\\Custom Json Configuration\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T11:36:42.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

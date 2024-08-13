@@ -1,0 +1,6 @@
+{
+  "WeatherApi": {
+    "ClientId": "This is ClientId value from MyCustomConfig.json",
+    "ClientSecret": "This is ClientSecret value from MyCustomConfig.json"
+  }
+}

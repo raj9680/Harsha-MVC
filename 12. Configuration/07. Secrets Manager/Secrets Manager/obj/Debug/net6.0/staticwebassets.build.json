@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "TCHZobw962p+VGkOnsWNgI5Ivd7berbL/uhlhmj5wNc=",
+  "Source": "Secrets Manager",
+  "BasePath": "_content/Secrets Manager",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Secrets Manager\\wwwroot",
+      "Source": "Secrets Manager",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\07. Secrets Manager\\Secrets Manager\\wwwroot\\",
+      "BasePath": "_content/Secrets Manager",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\07. Secrets Manager\\Secrets Manager\\wwwroot\\Stylesheet.css",
+      "SourceId": "Secrets Manager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\12. Configuration\\07. Secrets Manager\\Secrets Manager\\wwwroot\\",
+      "BasePath": "_content/Secrets Manager",
+      "RelativePath": "Stylesheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Stylesheet.css"
+    }
+  ]
+}

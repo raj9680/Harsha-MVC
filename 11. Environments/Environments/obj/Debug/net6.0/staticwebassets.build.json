@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "bixUiixHNuQszY3UaUXmWut1NthzdYzcJ0iehAzZIGI=",
+  "Source": "Environments",
+  "BasePath": "_content/Environments",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Environments\\wwwroot",
+      "Source": "Environments",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\11. Environments\\Environments\\wwwroot\\",
+      "BasePath": "_content/Environments",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\11. Environments\\Environments\\wwwroot\\Stylesheet.css",
+      "SourceId": "Environments",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\11. Environments\\Environments\\wwwroot\\",
+      "BasePath": "_content/Environments",
+      "RelativePath": "Stylesheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Stylesheet.css"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "3CfG36PnvGq/WFMfc3xcEmu7gJISAlt3NWJVUTkdWac=",
+  "Source": "Service Scope",
+  "BasePath": "_content/Service Scope",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Service Scope\\wwwroot",
+      "Source": "Service Scope",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\10. Dependency Injection\\04. Service Scope\\Service Scope\\wwwroot\\",
+      "BasePath": "_content/Service Scope",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\10. Dependency Injection\\04. Service Scope\\Service Scope\\wwwroot\\Stylesheet.css",
+      "SourceId": "Service Scope",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\10. Dependency Injection\\04. Service Scope\\Service Scope\\wwwroot\\",
+      "BasePath": "_content/Service Scope",
+      "RelativePath": "Stylesheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Stylesheet.css"
+    }
+  ]
+}

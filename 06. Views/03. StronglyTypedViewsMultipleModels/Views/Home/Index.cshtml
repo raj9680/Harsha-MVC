@@ -1,0 +1,31 @@
+﻿@using StronglyTypedViewsMultipleModels.Models;﻿
+@model IEnumerable<PersonModel>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["appTitle"]</title>
+    <meta charset="utf-8" />
+    <link href="~/style.css" rel="stylesheet" />
+</head>
+<body>
+    <h1>Hello</h1>
+    @{
+        List<PersonModel>? people = (List<PersonModel>?)ViewData["people"];
+        /* ByDefault ViewData is of object type so we cannot access corresponding property or
+        * index based on that, so we have to type cast person into list of person type using plain
+        * C# type casting
+        */
+
+        // Strongly Typed Views
+        <p><strong>Strongly Typed Views:</strong> Directly map model object to Model</p>
+        @foreach (PersonModel person in Model)
+        {
+            <a href="/person/@person.Name">@person.Name</a>
+            <span>, @person.DateOfBirth?.ToString("MM/dd/yyyy")</span>
+            <br />
+            <a href="/person-with-product">Person with Product</a>
+        }
+    }
+</body>
+</html>

@@ -1,0 +1,13 @@
+﻿@model ListModel;
+
+<div class="container">
+    <h3>@Model.ListTitle</h3>
+    
+    <ul>
+        <h4>@Model.ListTitle = "Updated Title</h4>
+        @foreach(var item in Model.ListItems)
+        {
+            <li>@item</li>
+        }
+    </ul>
+</div>

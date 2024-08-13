@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Bf/PnFMM16ajkSR2cn75Zp4Fnp3lllEifjOFhImImUw=",
+  "Source": "RedirectResults",
+  "BasePath": "_content/RedirectResults",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RedirectResults\\wwwroot",
+      "Source": "RedirectResults",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Controllers & Results\\RedirectResults\\wwwroot\\",
+      "BasePath": "_content/RedirectResults",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
