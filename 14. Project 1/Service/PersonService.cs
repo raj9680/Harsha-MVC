@@ -1,9 +1,13 @@
-﻿using Entities;
+﻿using CsvHelper;
+using CsvHelper.Configuration;
+using Entities;
 using Microsoft.EntityFrameworkCore;
+using OfficeOpenXml;
 using Service.Helpers;
 using ServiceContracts;
 using ServiceContracts.DTO;
 using ServiceContracts.Enums;
+using System.Globalization;
 
 namespace Service
 {
@@ -12,11 +16,17 @@ namespace Service
         private readonly List<Person> _persons;
         private readonly PersonsDbContext _db;
         private readonly ICountryService _countryService;
+        // private readonly IDiagnosticContext _diagnosticContext;
 
         public PersonService()
         {
             
         }
+
+        //public PersonService(IDiagnosticContext diagnosticContext)
+        //{
+        //    _diagnosticContext = diagnosticContext;
+        //}
 
         public PersonService(PersonsDbContext db,ICountryService countryService,  bool initialize = false)
         {
@@ -214,6 +224,7 @@ namespace Service
                     break;
             }
 
+            // _diagnosticContext.Set("Persons", matchingPersons);
             return matchingPersons;
         }
 
@@ -295,6 +306,123 @@ namespace Service
             _db.Persons.Remove(_db.Persons.First(temp => temp.PersonID == personID));
             await _db.SaveChangesAsync();
             return true;
+        }
+
+
+        public async Task<MemoryStream> GetPersonCSV()
+        {
+            // Step 1 - Imp watch vid
+            MemoryStream memoryStream = new MemoryStream();
+            StreamWriter streamWriter = new StreamWriter(memoryStream);
+
+            // Step 2
+            CsvWriter csvWriter = new CsvWriter(streamWriter, CultureInfo.InvariantCulture, leaveOpen: true);
+
+            csvWriter.WriteHeader<PersonResponse>(); // it writes header automatically i.e PersonID, PersonName etc
+            csvWriter.NextRecord(); // move cursor to nextline
+
+            List<PersonResponse> persons = _db.Persons
+                .Include("Country")
+                .Select(temp => temp.ToPersonResponse()).ToList();
+
+            await csvWriter.WriteRecordsAsync(persons);
+            // 1, abc ....
+
+            // after writing all info .. the cursor of MS is at end, so we need to move its position to 0 to gat all gathered info. 
+            memoryStream.Position = 0;
+            return memoryStream;
+
+        }
+
+        public async Task<MemoryStream> GetPersonCSVCustomFields()
+        {
+            MemoryStream memoryStream = new MemoryStream();
+            StreamWriter streamWriter = new StreamWriter(memoryStream);
+
+
+            CsvConfiguration csvConfiguration = new CsvConfiguration(CultureInfo.InvariantCulture);
+            CsvWriter csvWriter = new CsvWriter(streamWriter, csvConfiguration);
+
+
+            // PersonName, Email
+            //csvWriter.WriteField(nameof(PersonResponse.PersonName));
+            //csvWriter.WriteField(nameof(PersonResponse.Email));
+            //csvWriter.WriteField(nameof(PersonResponse.Country));
+            //csvWriter.NextRecord();
+
+
+            List<PersonResponse> persons = _db.Persons
+                .Include("Country")
+                .Select(temp => temp.ToPersonResponse()).ToList();
+
+            foreach (PersonResponse person in persons) 
+            {
+                csvWriter.WriteField(person.PersonName);
+                csvWriter.WriteField(person.Email);
+                csvWriter.WriteField(person.Country);
+
+                csvWriter.NextRecord();
+                csvWriter.Flush();
+            }
+            
+            memoryStream.Position = 0;
+            return memoryStream;
+        }
+
+        public async Task<MemoryStream> GetPersonExcel()
+        {
+            MemoryStream memoryStream = new MemoryStream();
+            
+            using(ExcelPackage excelPackage = new ExcelPackage(memoryStream))
+            {
+                ExcelWorksheet worksheet = excelPackage.Workbook.Worksheets.Add("SheetName");
+                worksheet.Cells["A1"].Value = "Person Name";
+                worksheet.Cells["B1"].Value = "Email";
+                worksheet.Cells["C1"].Value = "Date of Birth";
+                worksheet.Cells["D1"].Value = "Age";
+                worksheet.Cells["E1"].Value = "Gender";
+                worksheet.Cells["F1"].Value = "Country";
+                worksheet.Cells["G1"].Value = "Receive Newsletter";
+
+                // Go to EPPLUS documentation more advanced usage
+                // Optional - Formatting Cells Heading
+                using (ExcelRange headerCells = worksheet.Cells["A1:H1"])
+                {
+                    // Style Type
+                    headerCells.Style.Fill.PatternType = OfficeOpenXml.Style.ExcelFillStyle.Solid;
+
+                    // Style Color
+                    headerCells.Style.Fill.BackgroundColor.SetColor(System.Drawing.Color.LightGray);
+
+                    // Font Style
+                    headerCells.Style.Font.Bold = true;
+                }
+                // End
+
+                int row = 2;
+                List<PersonResponse> persons = _db.Persons.Include("Country").Select(person => person.ToPersonResponse()).ToList();
+
+                foreach (PersonResponse person in persons)
+                {
+                    //worksheet.Cells["A2"] = person.PersonName;
+                    worksheet.Cells[row, 1].Value = person.PersonName;
+                    worksheet.Cells[row, 2].Value = person.Email;
+                    worksheet.Cells[row, 3].Value = person.DateOfBirth;
+                    worksheet.Cells[row, 4].Value = person.Age;
+                    worksheet.Cells[row, 5].Value = person.Gender;
+                    worksheet.Cells[row, 6].Value = person.Country;
+                    worksheet.Cells[row, 7].Value = person.ReceivesNewsLetter;
+
+                    row++;
+                }
+
+                worksheet.Cells[$"A1:H{row}"].AutoFitColumns();
+                await excelPackage.SaveAsync();
+
+            }// auto dispose method get call to release memory resources.
+
+            memoryStream.Position = 0;
+            return memoryStream;
         }
     }
 }

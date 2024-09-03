@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "Microsoft.AspNetCore.Http.Features/2.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.CSharp/4.5.0": {
         "type": "package",
         "compile": {
@@ -753,6 +769,19 @@
     }
   },
   "libraries": {
+    "Microsoft.AspNetCore.Http.Features/2.0.1": {
+      "sha512": "J9JvFF7gC2SDJTV/4XWXQaKX4zdjR2ixlGy/KUD7Og+dkeHleD7f8+wtRUthuQV1yCU3t/gz/IrmbpmQj+Tlzg==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.http.features/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.xml",
+        "microsoft.aspnetcore.http.features.2.0.1.nupkg.sha512",
+        "microsoft.aspnetcore.http.features.nuspec"
+      ]
+    },
     "Microsoft.CSharp/4.5.0": {
       "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
       "type": "package",
@@ -1922,7 +1951,8 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Entities >= 1.0.0"
+      "Entities >= 1.0.0",
+      "Microsoft.AspNetCore.Http.Features >= 2.0.1"
     ]
   },
   "packageFolders": {
@@ -1935,7 +1965,7 @@
       "projectName": "ServiceContracts",
       "projectPath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\ServiceContracts\\ServiceContracts.csproj",
       "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\ServiceContracts\\obj\\",
+      "outputPath": "C:\\Users\\raj.kumar\\Desktop\\Harsha-MVC\\14. Project 1\\ServiceContracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1973,6 +2003,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": {
+            "target": "Package",
+            "version": "[2.0.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

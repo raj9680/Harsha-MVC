@@ -1,0 +1,33 @@
+2024-08-30 18:14:24.146 +05:30 [INF] User profile is available. Using 'C:\Users\raj.kumar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-08-30 18:14:24.582 +05:30 [INF] Creating key {dfacd71a-74dd-49cc-af01-293e077fcf97} with creation date 2024-08-30 12:44:24Z, activation date 2024-09-01 07:33:55Z, and expiration date 2024-11-28 12:44:24Z.
+2024-08-30 18:14:24.625 +05:30 [INF] Writing data to file 'C:\Users\raj.kumar\AppData\Local\ASP.NET\DataProtection-Keys\key-dfacd71a-74dd-49cc-af01-293e077fcf97.xml'.
+2024-08-30 18:14:24.937 +05:30 [INF] Now listening on: http://localhost:5045
+2024-08-30 18:14:26.496 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/ - -
+2024-08-30 18:14:27.582 +05:30 [INF] Executing endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-08-30 18:14:27.749 +05:30 [INF] Executed endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-08-30 18:14:27.771 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.String' while attempting to activate 'Contacts_Manager.Filters.ActionFilters.ResponseHeaderActionFilter'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method1(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.TypeFilterAttribute.CreateInstance(IServiceProvider serviceProvider)
+   at Microsoft.AspNetCore.Mvc.Filters.DefaultFilterProvider.ProvideFilter(FilterProviderContext context, FilterItem filterItem)
+   at Microsoft.AspNetCore.Mvc.Filters.DefaultFilterProvider.OnProvidersExecuting(FilterProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Filters.FilterFactory.CreateUncachedFiltersCore(IFilterProvider[] filterProviders, ActionContext actionContext, List`1 filterItems)
+   at Microsoft.AspNetCore.Mvc.Filters.FilterFactory.GetAllFilters(IFilterProvider[] filterProviders, ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-08-30 18:14:28.236 +05:30 [ERR] HTTP GET / responded 500 in 850.4707 ms
+2024-08-30 18:14:28.261 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/ - - - 500 - text/html;+charset=utf-8 1826.0736ms
+2024-08-30 18:14:28.324 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - -
+2024-08-30 18:14:28.331 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_vs/browserLink - -
+2024-08-30 18:14:28.359 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - - - 200 13768 application/javascript;+charset=utf-8 34.2504ms
+2024-08-30 18:14:28.781 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 449.7372ms
+2024-08-30 18:14:28.887 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/favicon.ico - -
+2024-08-30 18:14:28.908 +05:30 [INF] Response:
+StatusCode: 404
+2024-08-30 18:14:28.914 +05:30 [INF] HTTP GET /favicon.ico responded 404 in 23.3615 ms
+2024-08-30 18:14:28.921 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/favicon.ico - - - 404 0 - 33.1945ms

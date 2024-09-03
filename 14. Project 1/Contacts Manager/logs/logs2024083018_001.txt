@@ -1,0 +1,29 @@
+2024-08-30 18:14:24.945 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-30 18:14:24.963 +05:30 [INF] Hosting environment: Development
+2024-08-30 18:14:24.965 +05:30 [INF] Content root path: C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\
+2024-08-30 18:15:13.520 +05:30 [INF] User profile is available. Using 'C:\Users\raj.kumar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-08-30 18:15:13.930 +05:30 [INF] Now listening on: http://localhost:5045
+2024-08-30 18:15:15.389 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/ - -
+2024-08-30 18:15:16.200 +05:30 [INF] Executing endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-08-30 18:15:16.308 +05:30 [INF] Executed endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-08-30 18:15:16.325 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.String' while attempting to activate 'Contacts_Manager.Filters.ActionFilters.ResponseHeaderActionFilter'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method1(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.TypeFilterAttribute.CreateInstance(IServiceProvider serviceProvider)
+   at Microsoft.AspNetCore.Mvc.Filters.DefaultFilterProvider.ProvideFilter(FilterProviderContext context, FilterItem filterItem)
+   at Microsoft.AspNetCore.Mvc.Filters.DefaultFilterProvider.OnProvidersExecuting(FilterProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Filters.FilterFactory.CreateUncachedFiltersCore(IFilterProvider[] filterProviders, ActionContext actionContext, List`1 filterItems)
+   at Microsoft.AspNetCore.Mvc.Filters.FilterFactory.GetAllFilters(IFilterProvider[] filterProviders, ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-08-30 18:15:16.927 +05:30 [ERR] HTTP GET / responded 500 in 930.6297 ms
+2024-08-30 18:15:17.027 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/ - - - 500 - text/html;+charset=utf-8 1655.1631ms
+2024-08-30 18:15:17.164 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_vs/browserLink - -
+2024-08-30 18:15:17.363 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - -
+2024-08-30 18:15:17.499 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - - - 200 13768 application/javascript;+charset=utf-8 136.6424ms
+2024-08-30 18:15:17.584 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 420.0492ms

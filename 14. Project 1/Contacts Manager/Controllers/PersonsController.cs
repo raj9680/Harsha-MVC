@@ -1,4 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Contacts_Manager.Filters.ActionFilters;
+using Contacts_Manager.Filters.AuthorizationFilters;
+using Contacts_Manager.Filters.ExceptionFilters;
+using Contacts_Manager.Filters.ResourceFilters;
+using Contacts_Manager.Filters.ResultFilters;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Rotativa.AspNetCore;
 using ServiceContracts;
@@ -8,48 +13,67 @@ using ServiceContracts.Enums;
 namespace Contacts_Manager.Controllers
 {
     [Route("[controller]")]
+    // class/controller level filter trigger on each method of current controller
+    [TypeFilter(typeof(ResponseHeaderActionFilter), Arguments = new object[] { "My-Key-From-Controller", "My-Value-From-Controller", 2 }, Order = 2)]
+    [TypeFilter(typeof(HandleExceptionFilter))]
     public class PersonsController : Controller
     {
         private readonly IPersonService _personService;
         private readonly ICountryService _countryService;
-        public PersonsController(IPersonService personService, ICountryService countryService)
+        private readonly ILogger<PersonsController> _logger;
+        public PersonsController(IPersonService personService, ICountryService countryService, ILogger<PersonsController> logger)
         {
             _personService = personService;
             _countryService = countryService;
+            _logger = logger;
         }
 
 
         [Route("/")]
         [Route("[action]")]
+        [TypeFilter(typeof(PersonsListActionFilter))]
+        [TypeFilter(typeof(ResponseHeaderActionFilter), Arguments = new object[] { "My-Key-From-Method", "My-Value-From-Method", 1 }, Order = 1)]
+        [TypeFilter(typeof(PersonsListResultFilter))]
         public async Task<IActionResult> Index(string searchBy, string? searchString, string sortBy = nameof(PersonResponse.PersonName), SortOrderOptions sortOrder = SortOrderOptions.ASC)
         {
-            // Search
-            ViewBag.SearchFields = new Dictionary<string, string>()
-            {
-                { // "PersonName", "Person name" OR
-                nameof(PersonResponse.PersonName), "Person Name" },
-                { nameof(PersonResponse.Email), "Email" },
-                { nameof(PersonResponse.DateOfBirth), "Date of Birth" },
-                { nameof(PersonResponse.Gender), "Gender" },
-                { nameof(PersonResponse.CountryID), "Country" }
-            };
+            _logger.LogInformation("Index action method of PersonsController");
+
+            _logger.LogDebug($"searchBy: {searchBy}, searchString: {searchString}, sortBy: {sortBy}, sortOrder: {sortOrder}");
+
+
+            // Implemented in PersonsListActionFilter
+            //// Search
+            //ViewBag.SearchFields = new Dictionary<string, string>()
+            //{
+            //    { nameof(PersonResponse.PersonName), "Person Name" },
+            //    { nameof(PersonResponse.Email), "Email" },
+            //    { nameof(PersonResponse.DateOfBirth), "Date of Birth" },
+            //    { nameof(PersonResponse.Gender), "Gender" },
+            //    { nameof(PersonResponse.CountryID), "Country" }
+            //};
+
 
             List<PersonResponse> persons = await _personService.GetFilteredPersons(searchBy, searchString);
-            ViewBag.CurrentSearchBy = searchBy;
-            ViewBag.CurrentSearchString = searchString;
+            
+            // Implemented in PersonsListActionFilter
+            //ViewBag.CurrentSearchBy = searchBy;
+            //ViewBag.CurrentSearchString = searchString;
 
-            // Sort
-            List<PersonResponse> sortedPerson = await _personService.GetSortedPerson(persons, sortBy, sortOrder);
-            ViewBag.CurrentSortBy = sortBy;
-            ViewBag.CurrentSortOrder = sortOrder.ToString();
+            //Sort
+            List<PersonResponse> sortedPersons = await _personService.GetSortedPerson(persons, sortBy, sortOrder);
 
-            return View(sortedPerson); // Views/Persons/index.cshtml
+            // Implemented in PersonsListActionFilter
+            //ViewBag.CurrentSortBy = sortBy;
+            //ViewBag.CurrentSortOrder = sortOrder.ToString();
+
+            return View(sortedPersons); //Views/Persons/Index.cshtml
         }
 
 
         // Executes when user click create person
         [Route("[action]")]
         [HttpGet]
+        [TypeFilter(typeof(ResponseHeaderActionFilter), Arguments = new object[] { "Y-Custom-Key", "Y-Custom-Value", 1})]
         public async Task<IActionResult> Create()
         {
             List<CountryResponse> countries = await _countryService.GetAllCountries();
@@ -75,31 +99,35 @@ namespace Contacts_Manager.Controllers
         // Executes when submit form to create user
         [Route("[action]")]
         [HttpPost]
-        public async Task<IActionResult> Create(PersonAddRequest personAddRequest)
+        [TypeFilter(typeof(PersonCreateAndEditPostActionFilter))]
+        [TypeFilter(typeof(FeatureDisabledResourceFilter))] // isDisabled is bydefaul true
+        public async Task<IActionResult> Create(PersonAddRequest personRequest)
         {
-            if (!ModelState.IsValid)
-            {
-                List<CountryResponse> countries = await _countryService.GetAllCountries();
-                // Options 1
-                // ViewBag.Countries = countries;
+            // Below has been implemenetd on ActionFilter i.e PersonCreateAndEditPostActionFilter
 
-                // Option 2 - recommended - SelectListItem() type 
-                // new SelectListItem() { Text="Raj", Value="1" };
-                // <option value="1">Raj</option>  // So for ViewBag.Countries we can use this as
+            //if (!ModelState.IsValid)
+            //{
+            //    List<CountryResponse> countries = await _countryService.GetAllCountries();
+            //    // Options 1
+            //    // ViewBag.Countries = countries;
 
-                ViewBag.Countries = countries.Select(x =>
-                    new SelectListItem()
-                    {
-                        Text = x.CountryName,
-                        Value = x.CountryID.ToString()
-                    }
-                );
+            //    // Option 2 - recommended - SelectListItem() type 
+            //    // new SelectListItem() { Text="Raj", Value="1" };
+            //    // <option value="1">Raj</option>  // So for ViewBag.Countries we can use this as
 
-                ViewBag.Errors = ModelState.Values.SelectMany(v => v.Errors).Select(e => e.ErrorMessage).ToList();
-                return View();
-            }
+            //    ViewBag.Countries = countries.Select(x =>
+            //        new SelectListItem()
+            //        {
+            //            Text = x.CountryName,
+            //            Value = x.CountryID.ToString()
+            //        }
+            //    );
 
-            PersonResponse personResponse = await _personService.AddPerson(personAddRequest);
+            //    ViewBag.Errors = ModelState.Values.SelectMany(v => v.Errors).Select(e => e.ErrorMessage).ToList();
+            //    return View(personRequest);
+            //}
+
+            PersonResponse personResponse = await _personService.AddPerson(personRequest);
 
             // navigate to index action method
             return RedirectToAction("Index", "Persons");
@@ -108,6 +136,7 @@ namespace Contacts_Manager.Controllers
 
         [HttpGet]
         [Route("[action]/{personID}")] // Eg: /persons/edit/1
+        [TypeFilter(typeof(TokenResultFilter))] // To Set Auth Cookies
         public async Task<IActionResult> Edit(Guid personID)
         {
             PersonResponse? personResponse = await _personService.GetPersonByPersonID(personID);
@@ -131,31 +160,37 @@ namespace Contacts_Manager.Controllers
 
         [HttpPost]
         [Route("[action]/{personID}")]
-        public async Task<IActionResult> Edit(PersonUpdateRequest personUpdateRequest)
+        [TypeFilter(typeof(PersonCreateAndEditPostActionFilter))]
+        [TypeFilter(typeof(TokenAuthorizationFilter))]
+        [TypeFilter(typeof(PersonsAlwaysRunResultFilter))]
+        public async Task<IActionResult> Edit(PersonUpdateRequest personRequest)
         {
-            PersonResponse? personResponse = await _personService.GetPersonByPersonID(personUpdateRequest.PersonID);
+            PersonResponse? personResponse = await _personService.GetPersonByPersonID(personRequest.PersonID);
 
             if (personResponse == null)
             {
                 return RedirectToAction("index");
             }
 
-            if (ModelState.IsValid)
-            {
-                PersonResponse updatedPerson = await _personService.UpdatePerson(personUpdateRequest);
+            // Validation is getting checked in Filter
+            //if (ModelState.IsValid)
+            //{
+
+                PersonResponse updatedPerson = await _personService.UpdatePerson(personRequest);
                 return RedirectToAction("Index");
-            }
-            else
-            {
-                // Populating Countries List
-                List<CountryResponse> countries = await _countryService.GetAllCountries();
-                ViewBag.Countries = countries.Select(temp =>
-                new SelectListItem() { Text = temp.CountryName, Value = temp.CountryID.ToString() });
+            
+            //}
+            //else
+            //{
+            //    // Populating Countries List
+            //    List<CountryResponse> countries = await _countryService.GetAllCountries();
+            //    ViewBag.Countries = countries.Select(temp =>
+            //    new SelectListItem() { Text = temp.CountryName, Value = temp.CountryID.ToString() });
 
-                ViewBag.Errors = ModelState.Values.SelectMany(v => v.Errors).Select(e => e.ErrorMessage).ToList();
+            //    ViewBag.Errors = ModelState.Values.SelectMany(v => v.Errors).Select(e => e.ErrorMessage).ToList();
 
-                return View(personResponse.ToPersonUpdateRequest());
-            }
+            //    return View(personResponse.ToPersonUpdateRequest());
+            //}
         }
 
         [HttpGet]
@@ -201,5 +236,27 @@ namespace Contacts_Manager.Controllers
         }
 
 
+        [Route("[action]")]
+        public async Task<IActionResult> PersonsCSV()
+        {
+            MemoryStream memoryStream = await _personService.GetPersonCSV();
+            return File(memoryStream, "application/octet-stream", "persons.csv");
+        }
+
+
+
+        [Route("[action]")]
+        public async Task<IActionResult> PersonsCSVCustomFields()
+        {
+            MemoryStream memoryStream = await _personService.GetPersonCSVCustomFields();
+            return File(memoryStream, "application/octet-stream", "persons-custom-fields.csv");
+        }
+
+        [Route("[action]")]
+        public async Task<IActionResult> PersonsExcel()
+        {
+            MemoryStream memoryStream = await _personService.GetPersonExcel();
+            return File(memoryStream, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "persons-custom-fields.xlsx");
+        }
     }
 }

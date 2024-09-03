@@ -1,5 +1,4 @@
-﻿using ServiceContracts.DTO;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace Service.Helpers
 {

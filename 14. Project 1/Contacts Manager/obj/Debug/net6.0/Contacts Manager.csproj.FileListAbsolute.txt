@@ -8,15 +8,19 @@ C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\n
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Contacts Manager.runtimeconfig.json
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Contacts Manager.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Contacts Manager.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\EPPlus.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\EPPlus.System.Drawing.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Humanizer.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
@@ -25,15 +29,29 @@ C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\n
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Rotativa.AspNetCore.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Serilog.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

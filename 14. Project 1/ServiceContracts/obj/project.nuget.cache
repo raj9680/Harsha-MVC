@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QJ8sk+F45k8=",
+  "dgSpecHash": "NmdAtM+a7d8=",
   "success": true,
   "projectFilePath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\ServiceContracts\\ServiceContracts.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.0.1\\microsoft.aspnetcore.http.features.2.0.1.nupkg.sha512",
     "C:\\Users\\raj.kumar\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\raj.kumar\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\raj.kumar\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
