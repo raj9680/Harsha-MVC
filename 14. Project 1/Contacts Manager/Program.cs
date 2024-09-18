@@ -1,9 +1,6 @@
-using Service;
-using ServiceContracts;
-using Entities;
-using Microsoft.EntityFrameworkCore;
-using Serilog;
+using Contacts_Manager;
 using Contacts_Manager.Filters.ActionFilters;
+using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,10 +15,13 @@ builder.Services.AddControllersWithViews(options=>
     // options.Filters.Add<ResponseHeaderActionFilter>();
 
     //options.Filters.Add<ResponseHeaderActionFilter>(2); - with order parameter as 2, this approach is good only Filter Class without parameter
-
+    
 
     // Registering ActionFilter with Parameters
-    options.Filters.Add(new ResponseHeaderActionFilter(logger, "My-Key-From-Global", "My-Value-From-Global", 2));
+    options.Filters.Add(new ResponseHeaderActionFilter(logger) { _keyy = "My_Key-From_Global", _valuee = "My-value-From-Global", Order = 2});
+
+    // logger is not required bcz of AttributeFilter
+    // options.Filters.Add(new ResponseHeaderActionFilter("My-Key-From-Global", "My-Value-From-Global", 2));
 });
 
 // Logging
@@ -43,38 +43,26 @@ builder.Host.UseSerilog((HostBuilderContext context, IServiceProvider services, 
     // read out current app's and services & make them available to SeriLog.
 });
 
-// add Services to IOC container
-// Singleton: Instantiate one time for all the application
-builder.Services.AddScoped<ICountryService, CountryService>();
-// 
-builder.Services.AddScoped<IPersonService, PersonService>();
-
-
-// DbContext Registeration
-builder.Services.AddDbContext<PersonsDbContext>(options=>
-{
-    //options.UseSqlServer(builder.Configuration["ConnectionStrings:CMConnection"]);
-
-    options.UseSqlServer(builder.Configuration.GetConnectionString("CMConnection"));
-});
-
-// For Logging Specific Fields
-builder.Services.AddHttpLogging(options =>
-{
-    options.LoggingFields = Microsoft.AspNetCore.HttpLogging.HttpLoggingFields.RequestProperties;
-    options.LoggingFields = Microsoft.AspNetCore.HttpLogging.HttpLoggingFields.ResponsePropertiesAndHeaders;
-});
-
-
+// passing configuration in param
+builder.Services.ConfigureServices(builder.Configuration);
+// builder.Services - first param
+// builder.Configuration - second param
 
 var app = builder.Build();
 
-app.UseSerilogRequestLogging();
 
-if(builder.Environment.IsDevelopment())
+
+if(!builder.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
 }
+else
+{
+    app.UseExceptionHandler("/error"); //path to redirect
+    // app.UseExceptionHandlingMiddleware();
+}
+
+app.UseSerilogRequestLogging();
 
 //app.Logger.LogDebug("debug-message");
 //app.Logger.LogInformation("information-message");

@@ -101,3 +101,9 @@ C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\obj\Debug\n
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\obj\Debug\net6.0\Contacts Manager.pdb
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\obj\Debug\net6.0\Contacts Manager.genruntimeconfig.cache
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\obj\Debug\net6.0\ref\Contacts Manager.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Exceptions.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Exceptions.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\RepositoryContracts.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\RepositoryContracts.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Repositories.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\bin\Debug\net6.0\Repositories.pdb

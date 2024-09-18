@@ -29,7 +29,7 @@ namespace ServiceContracts
         /// </summary>
         /// <param name="personID">Person id to search</param>
         /// <returns>Matching person object</returns>
-        Task<PersonResponse?> GetPersonByPersonID(Guid personID);
+        Task<PersonResponse?> GetPersonByPersonID(Guid? personID);
 
          /// <summary>
         /// Return all person objects that matches with the given search field and serchStr

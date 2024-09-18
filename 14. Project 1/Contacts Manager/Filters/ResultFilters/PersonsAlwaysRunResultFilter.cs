@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc.Filters;
+﻿using Contacts_Manager.Filters.SkipFilters;
+using Microsoft.AspNetCore.Mvc.Filters;
 
 namespace Contacts_Manager.Filters.ResultFilters
 {
@@ -18,6 +19,12 @@ namespace Contacts_Manager.Filters.ResultFilters
 
         public void OnResultExecuting(ResultExecutingContext context)
         {
+            // skipping this execution for index method
+            if (context.Filters.OfType<SkipFilter>().Any())
+            {
+                // Wherever the skip filter attribute is used in action method, that method is skipped.
+                return;
+            } // remaining portion of code is skipped.
             _logger.LogInformation("Always Run Action Filter Before");
         }
     }

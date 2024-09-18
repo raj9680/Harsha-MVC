@@ -4066,12 +4066,51 @@
           "bin/placeholder/Entities.dll": {}
         }
       },
+      "Exceptions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Exceptions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exceptions.dll": {}
+        }
+      },
+      "Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entities": "1.0.0",
+          "RepositoryContracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositories.dll": {}
+        }
+      },
+      "RepositoryContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RepositoryContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RepositoryContracts.dll": {}
+        }
+      },
       "Service/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "CsvHelper": "27.2.1",
           "EPPlus": "6.0.6",
+          "Exceptions": "1.0.0",
+          "RepositoryContracts": "1.0.0",
           "Serilog.Extensions.Hosting": "5.0.1",
           "ServiceContracts": "1.0.0"
         },
@@ -11019,6 +11058,21 @@
       "path": "../Entities/Entities.csproj",
       "msbuildProject": "../Entities/Entities.csproj"
     },
+    "Exceptions/1.0.0": {
+      "type": "project",
+      "path": "../Exceptions/Exceptions.csproj",
+      "msbuildProject": "../Exceptions/Exceptions.csproj"
+    },
+    "Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Repositories/Repositories.csproj",
+      "msbuildProject": "../Repositories/Repositories.csproj"
+    },
+    "RepositoryContracts/1.0.0": {
+      "type": "project",
+      "path": "../RepositoryContracts/RepositoryContracts.csproj",
+      "msbuildProject": "../RepositoryContracts/RepositoryContracts.csproj"
+    },
     "Service/1.0.0": {
       "type": "project",
       "path": "../Service/Service.csproj",
@@ -11033,8 +11087,11 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Entities >= 1.0.0",
+      "Exceptions >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.5",
+      "Repositories >= 1.0.0",
+      "RepositoryContracts >= 1.0.0",
       "Rotativa.AspNetCore >= 1.2.0",
       "Serilog >= 2.11.0",
       "Serilog.AspNetCore >= 6.0.1",
@@ -11074,6 +11131,15 @@
           "projectReferences": {
             "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\Entities\\Entities.csproj": {
               "projectPath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\Entities\\Entities.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\Exceptions\\Exceptions.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\Exceptions\\Exceptions.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\Repositories\\Repositories.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\RepositoryContracts\\RepositoryContracts.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\RepositoryContracts\\RepositoryContracts.csproj"
             },
             "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\ServiceContracts\\ServiceContracts.csproj": {
               "projectPath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\14. Project 1\\ServiceContracts\\ServiceContracts.csproj"

@@ -1,8 +1,9 @@
 ﻿using CsvHelper;
 using CsvHelper.Configuration;
 using Entities;
-using Microsoft.EntityFrameworkCore;
+using Exceptions;
 using OfficeOpenXml;
+using RepositoryContracts;
 using Service.Helpers;
 using ServiceContracts;
 using ServiceContracts.DTO;
@@ -14,8 +15,8 @@ namespace Service
     public class PersonService : IPersonService
     {
         private readonly List<Person> _persons;
-        private readonly PersonsDbContext _db;
-        private readonly ICountryService _countryService;
+        private readonly IPersonsRepository _personsRepository;
+        // private readonly ICountryService _countryService;
         // private readonly IDiagnosticContext _diagnosticContext;
 
         public PersonService()
@@ -28,12 +29,12 @@ namespace Service
         //    _diagnosticContext = diagnosticContext;
         //}
 
-        public PersonService(PersonsDbContext db,ICountryService countryService,  bool initialize = false)
+        public PersonService(IPersonsRepository personsRepository, bool initialize = false)
         {
             _persons = new List<Person>(); 
-            _db = db;
+            _personsRepository = personsRepository;
             //_countryService = new CountryService();
-            _countryService = countryService;
+            // _countryService = countryService;
 
             if (initialize)
             {
@@ -136,8 +137,7 @@ namespace Service
             person.PersonID = Guid.NewGuid();
 
             // add person obbject to person list
-            _db.Persons.Add(person);
-            await _db.SaveChangesAsync();
+            await _personsRepository.AddPerson(person);
 
             // using Sp
             // _db.sp_InsertPerson(person);
@@ -162,26 +162,28 @@ namespace Service
 
             // Iclude relation table data 
             // Here Country is not Modal or Class name, its name of Navigation Property from Person.cs
-            var personns = await _db.Persons.Include("Country").ToListAsync();
+            var personns = await _personsRepository.GetAllPersons();
 
-            //List<PersonResponse> person = _db.Persons.ToList()
-            //    .Select(x => ConvertPersonToPersonResponse(x)).ToList();
+            List<PersonResponse> person = personns.ToList()
+                .Select(x => ConvertPersonToPersonResponse(x)).ToList();
 
             // sp_GetAllPersons() is SP
-            List<PersonResponse> persons = _db.sp_GetAllPersons()
-               .Select(x => x.ToPersonResponse()).ToList();
+            // List<PersonResponse> persons = _personsRepository.sp_GetAllPersons()
+               // .Select(x => x.ToPersonResponse()).ToList();
 
-            return persons;
+            return person;
         }
 
 
-        public async Task<PersonResponse?> GetPersonByPersonID(Guid personID)
+        public async Task<PersonResponse?> GetPersonByPersonID(Guid? personID)
         {
             if(personID == Guid.Empty)
                 return null;
 
-            Person? person = await _db.Persons.Include("Country")
-                .FirstOrDefaultAsync(temp => temp.PersonID == personID);
+            //Person? person = await _personsRepository.Persons.Include("Country")
+            //    .FirstOrDefaultAsync(temp => temp.PersonID == personID);
+
+            Person? person = await _personsRepository.GetPersonByPersonId(personID.Value);
 
             // To Get Country Name
             // string countryName = person.Country.CountryName;
@@ -195,6 +197,7 @@ namespace Service
 
         public async Task<List<PersonResponse>> GetFilteredPersons(string? searchBy, string? searchString)
         {
+            // can be improved for larger data sets
             List<PersonResponse> allPersons = await GetAllPersons();
             List<PersonResponse> matchingPersons = allPersons;
 
@@ -270,10 +273,10 @@ namespace Service
             ValidationHelper.ModelValidation(personUpdateRequest);
 
             // getMatchingPersonObject to update
-            Person? matchingPerson = await _db.Persons.FirstOrDefaultAsync(temp => temp.PersonID == personUpdateRequest.PersonID);
+            Person? matchingPerson = await _personsRepository.GetPersonByPersonId(personUpdateRequest.PersonID);
             if(matchingPerson == null)
             {
-                throw new ArgumentException("Given person Id does not exist");
+                throw new InvalidPersonIDException("Given person Id does not exist");
             }
 
             // Update All Details
@@ -284,7 +287,7 @@ namespace Service
             matchingPerson.CountryID = personUpdateRequest.CountryID;
             matchingPerson.ReceiveNewsLetters = personUpdateRequest.ReceiveNewsLetters;
 
-            await _db.SaveChangesAsync();
+            await _personsRepository.UpdatePerson(matchingPerson);
 
             //return matchingPerson.ToPersonResponse();
             return ConvertPersonToPersonResponse(matchingPerson);
@@ -297,14 +300,14 @@ namespace Service
                 throw new ArgumentNullException();
             }
 
-            Person? person = await _db.Persons.FirstOrDefaultAsync(temp => temp.PersonID == personID);
-            if(person == null)
+            //Person? person = await _personsRepository.Persons.FirstOrDefaultAsync(temp => temp.PersonID == personID);
+            Person? person = await _personsRepository.GetPersonByPersonId(personID.Value);
+            if (person == null)
             {
                 return false;
             }
 
-            _db.Persons.Remove(_db.Persons.First(temp => temp.PersonID == personID));
-            await _db.SaveChangesAsync();
+            await _personsRepository.DeletePersonByPersonID(personID.Value);
             return true;
         }
 
@@ -321,9 +324,11 @@ namespace Service
             csvWriter.WriteHeader<PersonResponse>(); // it writes header automatically i.e PersonID, PersonName etc
             csvWriter.NextRecord(); // move cursor to nextline
 
-            List<PersonResponse> persons = _db.Persons
-                .Include("Country")
-                .Select(temp => temp.ToPersonResponse()).ToList();
+            //List<PersonResponse> persons = _personsRepository.Persons
+            //    .Include("Country")
+            //    .Select(temp => temp.ToPersonResponse()).ToList();
+
+            List<PersonResponse> persons = await GetAllPersons();
 
             await csvWriter.WriteRecordsAsync(persons);
             // 1, abc ....
@@ -351,9 +356,11 @@ namespace Service
             //csvWriter.NextRecord();
 
 
-            List<PersonResponse> persons = _db.Persons
-                .Include("Country")
-                .Select(temp => temp.ToPersonResponse()).ToList();
+            //List<PersonResponse> persons = _personsRepository.Persons
+            //    .Include("Country")
+            //    .Select(temp => temp.ToPersonResponse()).ToList();
+
+            List<PersonResponse> persons = await GetAllPersons();
 
             foreach (PersonResponse person in persons) 
             {
@@ -400,7 +407,9 @@ namespace Service
                 // End
 
                 int row = 2;
-                List<PersonResponse> persons = _db.Persons.Include("Country").Select(person => person.ToPersonResponse()).ToList();
+                //List<PersonResponse> persons = _personsRepository.Persons.Include("Country").Select(person => person.ToPersonResponse()).ToList();
+
+                List<PersonResponse> persons = await GetAllPersons();
 
                 foreach (PersonResponse person in persons)
                 {

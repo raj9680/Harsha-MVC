@@ -1,3 +1,0 @@
-2024-09-03 16:51:54.856 +05:30 [INF] Application started. Press Ctrl+C to shut down.
-2024-09-03 16:51:54.873 +05:30 [INF] Hosting environment: Development
-2024-09-03 16:51:54.893 +05:30 [INF] Content root path: C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\

@@ -16,3 +16,7 @@ C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Service\obj\Debug\net6.0\Ser
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Service\obj\Debug\net6.0\refint\Service.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Service\obj\Debug\net6.0\Service.pdb
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Service\bin\Debug\net6.0\Exceptions.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Service\bin\Debug\net6.0\Exceptions.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Service\bin\Debug\net6.0\RepositoryContracts.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Service\bin\Debug\net6.0\RepositoryContracts.pdb

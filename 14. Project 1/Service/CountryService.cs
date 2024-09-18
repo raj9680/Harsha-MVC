@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using OfficeOpenXml;
+using RepositoryContracts;
 using ServiceContracts;
 using ServiceContracts.DTO;
 
@@ -11,7 +12,7 @@ namespace Service
     {
         // private field
         private readonly List<Country> _countries;
-        private readonly PersonsDbContext _db;
+        private readonly ICountriesRepository _countriesRepository;
 
         // constructor to initialize Country object
 
@@ -53,9 +54,9 @@ namespace Service
             }
         }
 
-        public CountryService( PersonsDbContext db, bool initialize = true)
+        public CountryService(ICountriesRepository countriesRepository, bool initialize = true)
         {
-            _db = db;
+            _countriesRepository = countriesRepository;
         }
         
 
@@ -74,7 +75,7 @@ namespace Service
             }
 
             // Validation: CountryName can't be duplicate
-            if (await _db.Countries.CountAsync(temp => temp.CountryName == countryAddRequest.CountryName) > 0)
+            if (await _countriesRepository.GetCountryByName(countryAddRequest.CountryName) != null)
             {
                 throw new ArgumentException("Given country name already exists");
             }
@@ -86,15 +87,14 @@ namespace Service
             country.CountryID = Guid.NewGuid();
 
             // Add country object into _countries
-            _db.Countries.Add(country);
-            await _db.SaveChangesAsync();
+            await _countriesRepository.AddCountry(country);
             
             return country.ToCountryResponse();
         }
 
         public async Task<List<CountryResponse>> GetAllCountries()
         {
-            return await _db.Countries.Select(country => country.ToCountryResponse()).ToListAsync();
+            return  (await _countriesRepository.GetAllCountries()).Select(country => country.ToCountryResponse()).ToList();
         }
 
         public async Task<CountryResponse?> GetCountryByCountryID(Guid? countryID)
@@ -103,7 +103,7 @@ namespace Service
             {
                 throw new ArgumentNullException(nameof(countryID));
             }
-            Country? country_ID_found = await _db.Countries.FirstOrDefaultAsync(temp => temp.CountryID == countryID);
+            Country? country_ID_found = await _countriesRepository.GetCountryById(countryID.Value);
 
             if(country_ID_found == null) 
             { 
@@ -136,14 +136,13 @@ namespace Service
                     {
                         string? countryName = cellValue;
 
-                        if(_db.Countries.Where(tmp => tmp.CountryName == countryName).Count() == 0)
+                        if(await _countriesRepository.GetCountryByName(countryName) != null)
                         {
                             Country country = new Country()
                             {
                                 CountryName = countryName
                             };
-                            _db.Countries.Add(country);
-                            await _db.SaveChangesAsync();
+                            await _countriesRepository.AddCountry(country);
 
                             countriesInserted++;
                         }

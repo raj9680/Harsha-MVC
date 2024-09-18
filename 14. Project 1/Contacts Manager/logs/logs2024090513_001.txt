@@ -1,0 +1,55 @@
+2024-09-05 13:51:53.998 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-05 13:51:54.026 +05:30 [INF] Hosting environment: Development
+2024-09-05 13:51:54.041 +05:30 [INF] Content root path: C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\
+2024-09-05 13:55:11.820 +05:30 [INF] User profile is available. Using 'C:\Users\raj.kumar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-05 13:55:12.038 +05:30 [INF] Now listening on: http://localhost:5045
+2024-09-05 13:55:13.174 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/ - -
+2024-09-05 13:55:13.539 +05:30 [INF] Executing endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-09-05 13:55:13.674 +05:30 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller Contacts_Manager.Controllers.PersonsController (Contacts Manager).
+2024-09-05 13:55:14.140 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-05 13:55:14.144 +05:30 [INF] PersonsListActionFilter.OnActionExecuting method
+2024-09-05 13:55:14.145 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-05 13:55:14.148 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-05 13:55:14.157 +05:30 [INF] Index action method of PersonsController
+2024-09-05 13:55:15.761 +05:30 [INF] Entity Framework Core 6.0.5 initialized 'PersonsDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.5' with options: None
+2024-09-05 13:55:16.675 +05:30 [INF] Executed DbCommand (55ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[PersonID], [t].[CountryID], [t].[DateOfBirth], [t].[Email], [t].[Gender], [t].[PersonName], [t].[ReceiveNewsLetters], [t].[TaxIdNumber], [t0].[CountryID], [t0].[CountryName]
+FROM [TblPersons] AS [t]
+LEFT JOIN [TblCountries] AS [t0] ON [t].[CountryID] = [t0].[CountryID]
+2024-09-05 13:55:16.924 +05:30 [INF] Executed DbCommand (16ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+Execute [dbo].[GetAllPersons]
+2024-09-05 13:55:16.960 +05:30 [INF] PersonsListActionFilter.OnActionExecuted method
+2024-09-05 13:55:17.022 +05:30 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2024-09-05 13:55:17.035 +05:30 [INF] Executing ViewResult, running view Index.
+2024-09-05 13:55:17.277 +05:30 [INF] Executed ViewResult - view Index executed in 243.3666ms.
+2024-09-05 13:55:17.288 +05:30 [INF] {Filtername}.{Methodname} - after
+2024-09-05 13:55:17.294 +05:30 [INF] Always Run Action Filter After
+2024-09-05 13:55:17.307 +05:30 [INF] Executed action Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager) in 3626.9134ms
+2024-09-05 13:55:17.315 +05:30 [INF] Executed endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-09-05 13:55:17.331 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Thu, 05 Sep 2024 08:25:17 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+My_Key-From_Global: [Redacted]
+My-Key-From-Method: [Redacted]
+2024-09-05 13:55:17.340 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - -
+2024-09-05 13:55:17.344 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_vs/browserLink - -
+2024-09-05 13:55:17.351 +05:30 [INF] HTTP GET / responded 200 in 3883.7016 ms
+2024-09-05 13:55:17.356 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - - - 200 13768 application/javascript;+charset=utf-8 14.7147ms
+2024-09-05 13:55:17.403 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/ - - - 200 - text/html;+charset=utf-8 4263.3476ms
+2024-09-05 13:55:17.547 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 202.3566ms
+2024-09-05 13:55:58.925 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/Stylesheet.css?__browserLink_refresh=e1817093d7274ec1b7174c60ab01120f - -
+2024-09-05 13:55:58.947 +05:30 [INF] Sending file. Request path: '/Stylesheet.css'. Physical path: 'C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\wwwroot\Stylesheet.css'
+2024-09-05 13:55:58.953 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Thu, 05 Sep 2024 08:25:58 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Thu, 05 Sep 2024 08:25:58 GMT
+Content-Length: 5792
+2024-09-05 13:55:58.956 +05:30 [INF] HTTP GET /Stylesheet.css responded 200 in 26.8182 ms
+2024-09-05 13:55:58.959 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/Stylesheet.css?__browserLink_refresh=e1817093d7274ec1b7174c60ab01120f - - - 200 5792 text/css 33.3405ms

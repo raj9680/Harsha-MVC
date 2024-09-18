@@ -1,0 +1,276 @@
+2024-09-16 17:31:09.534 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-16 17:31:09.674 +05:30 [INF] Hosting environment: Development
+2024-09-16 17:31:09.714 +05:30 [INF] Content root path: C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\Contacts Manager\
+2024-09-16 17:31:59.849 +05:30 [INF] User profile is available. Using 'C:\Users\raj.kumar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-16 17:32:00.166 +05:30 [INF] Now listening on: http://localhost:5045
+2024-09-16 17:32:01.844 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/ - -
+2024-09-16 17:32:02.280 +05:30 [INF] Executing endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-09-16 17:32:02.460 +05:30 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller Contacts_Manager.Controllers.PersonsController (Contacts Manager).
+2024-09-16 17:32:03.251 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:03.357 +05:30 [INF] PersonsListActionFilter.OnActionExecuting method
+2024-09-16 17:32:03.359 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:03.376 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:03.385 +05:30 [INF] Index action method of PersonsController
+2024-09-16 17:32:06.676 +05:30 [INF] Entity Framework Core 6.0.5 initialized 'PersonsDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.5' with options: None
+2024-09-16 17:32:07.981 +05:30 [INF] Executed DbCommand (87ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[PersonID], [t].[CountryID], [t].[DateOfBirth], [t].[Email], [t].[Gender], [t].[PersonName], [t].[ReceiveNewsLetters], [t].[TaxIdNumber], [t0].[CountryID], [t0].[CountryName]
+FROM [TblPersons] AS [t]
+LEFT JOIN [TblCountries] AS [t0] ON [t].[CountryID] = [t0].[CountryID]
+2024-09-16 17:32:08.375 +05:30 [INF] PersonsListActionFilter.OnActionExecuted method
+2024-09-16 17:32:08.506 +05:30 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2024-09-16 17:32:08.531 +05:30 [INF] Executing ViewResult, running view Index.
+2024-09-16 17:32:09.057 +05:30 [INF] Executed ViewResult - view Index executed in 530.3778ms.
+2024-09-16 17:32:09.063 +05:30 [INF] {Filtername}.{Methodname} - after
+2024-09-16 17:32:09.065 +05:30 [INF] Always Run Action Filter After
+2024-09-16 17:32:09.071 +05:30 [INF] Executed action Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager) in 6602.3897ms
+2024-09-16 17:32:09.075 +05:30 [INF] Executed endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-09-16 17:32:09.094 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 16 Sep 2024 12:02:08 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+My_Key-From_Global: [Redacted]
+My-Key-From-Method: [Redacted]
+2024-09-16 17:32:09.106 +05:30 [INF] HTTP GET / responded 200 in 6929.5230 ms
+2024-09-16 17:32:09.110 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - -
+2024-09-16 17:32:09.120 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - - - 200 13768 application/javascript;+charset=utf-8 7.9709ms
+2024-09-16 17:32:09.149 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/ - - - 200 - text/html;+charset=utf-8 7331.9245ms
+2024-09-16 17:32:09.158 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_vs/browserLink - -
+2024-09-16 17:32:09.358 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 199.6507ms
+2024-09-16 17:32:18.586 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/Persons/Index?searchBy=Email&searchString=asar - -
+2024-09-16 17:32:18.602 +05:30 [INF] Executing endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-09-16 17:32:18.610 +05:30 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller Contacts_Manager.Controllers.PersonsController (Contacts Manager).
+2024-09-16 17:32:18.644 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:18.648 +05:30 [INF] PersonsListActionFilter.OnActionExecuting method
+2024-09-16 17:32:18.650 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:18.652 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:18.654 +05:30 [INF] Index action method of PersonsController
+2024-09-16 17:32:18.673 +05:30 [INF] Entity Framework Core 6.0.5 initialized 'PersonsDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.5' with options: None
+2024-09-16 17:32:18.692 +05:30 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[PersonID], [t].[CountryID], [t].[DateOfBirth], [t].[Email], [t].[Gender], [t].[PersonName], [t].[ReceiveNewsLetters], [t].[TaxIdNumber], [t0].[CountryID], [t0].[CountryName]
+FROM [TblPersons] AS [t]
+LEFT JOIN [TblCountries] AS [t0] ON [t].[CountryID] = [t0].[CountryID]
+2024-09-16 17:32:18.697 +05:30 [INF] PersonsListActionFilter.OnActionExecuted method
+2024-09-16 17:32:18.701 +05:30 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2024-09-16 17:32:18.703 +05:30 [INF] Executing ViewResult, running view Index.
+2024-09-16 17:32:18.714 +05:30 [INF] Executed ViewResult - view Index executed in 11.4389ms.
+2024-09-16 17:32:18.716 +05:30 [INF] {Filtername}.{Methodname} - after
+2024-09-16 17:32:18.718 +05:30 [INF] Always Run Action Filter After
+2024-09-16 17:32:18.719 +05:30 [INF] Executed action Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager) in 99.0831ms
+2024-09-16 17:32:18.722 +05:30 [INF] Executed endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-09-16 17:32:18.724 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 16 Sep 2024 12:02:18 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+My_Key-From_Global: [Redacted]
+My-Key-From-Method: [Redacted]
+2024-09-16 17:32:18.726 +05:30 [INF] HTTP GET /Persons/Index responded 200 in 126.7297 ms
+2024-09-16 17:32:18.730 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/Persons/Index?searchBy=Email&searchString=asar - - - 200 - text/html;+charset=utf-8 143.1580ms
+2024-09-16 17:32:18.746 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_vs/browserLink - -
+2024-09-16 17:32:18.749 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - -
+2024-09-16 17:32:18.755 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - - - 200 13768 application/javascript;+charset=utf-8 6.6118ms
+2024-09-16 17:32:18.783 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 36.7015ms
+2024-09-16 17:32:23.086 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/persons/index - -
+2024-09-16 17:32:23.096 +05:30 [INF] Executing endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-09-16 17:32:23.099 +05:30 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller Contacts_Manager.Controllers.PersonsController (Contacts Manager).
+2024-09-16 17:32:23.111 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:23.114 +05:30 [INF] PersonsListActionFilter.OnActionExecuting method
+2024-09-16 17:32:23.115 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:23.117 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:23.118 +05:30 [INF] Index action method of PersonsController
+2024-09-16 17:32:23.178 +05:30 [INF] Entity Framework Core 6.0.5 initialized 'PersonsDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.5' with options: None
+2024-09-16 17:32:23.192 +05:30 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[PersonID], [t].[CountryID], [t].[DateOfBirth], [t].[Email], [t].[Gender], [t].[PersonName], [t].[ReceiveNewsLetters], [t].[TaxIdNumber], [t0].[CountryID], [t0].[CountryName]
+FROM [TblPersons] AS [t]
+LEFT JOIN [TblCountries] AS [t0] ON [t].[CountryID] = [t0].[CountryID]
+2024-09-16 17:32:23.199 +05:30 [INF] PersonsListActionFilter.OnActionExecuted method
+2024-09-16 17:32:23.200 +05:30 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2024-09-16 17:32:23.202 +05:30 [INF] Executing ViewResult, running view Index.
+2024-09-16 17:32:23.210 +05:30 [INF] Executed ViewResult - view Index executed in 7.9246ms.
+2024-09-16 17:32:23.213 +05:30 [INF] {Filtername}.{Methodname} - after
+2024-09-16 17:32:23.215 +05:30 [INF] Always Run Action Filter After
+2024-09-16 17:32:23.218 +05:30 [INF] Executed action Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager) in 114.0905ms
+2024-09-16 17:32:23.223 +05:30 [INF] Executed endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-09-16 17:32:23.230 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 16 Sep 2024 12:02:22 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+My_Key-From_Global: [Redacted]
+My-Key-From-Method: [Redacted]
+2024-09-16 17:32:23.232 +05:30 [INF] HTTP GET /persons/index responded 200 in 137.7319 ms
+2024-09-16 17:32:23.237 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/persons/index - - - 200 - text/html;+charset=utf-8 150.4266ms
+2024-09-16 17:32:23.254 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_vs/browserLink - -
+2024-09-16 17:32:23.268 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - -
+2024-09-16 17:32:23.272 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - - - 200 13768 application/javascript;+charset=utf-8 3.1618ms
+2024-09-16 17:32:23.300 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 45.6707ms
+2024-09-16 17:32:25.669 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/persons/index?searchBy=&searchString=&sortBy=PersonName&sortOrder=DESC - -
+2024-09-16 17:32:25.680 +05:30 [INF] Executing endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-09-16 17:32:25.683 +05:30 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller Contacts_Manager.Controllers.PersonsController (Contacts Manager).
+2024-09-16 17:32:25.685 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:25.687 +05:30 [INF] PersonsListActionFilter.OnActionExecuting method
+2024-09-16 17:32:25.688 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:25.690 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:25.692 +05:30 [INF] Index action method of PersonsController
+2024-09-16 17:32:25.694 +05:30 [INF] Entity Framework Core 6.0.5 initialized 'PersonsDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.5' with options: None
+2024-09-16 17:32:25.710 +05:30 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[PersonID], [t].[CountryID], [t].[DateOfBirth], [t].[Email], [t].[Gender], [t].[PersonName], [t].[ReceiveNewsLetters], [t].[TaxIdNumber], [t0].[CountryID], [t0].[CountryName]
+FROM [TblPersons] AS [t]
+LEFT JOIN [TblCountries] AS [t0] ON [t].[CountryID] = [t0].[CountryID]
+2024-09-16 17:32:25.714 +05:30 [INF] PersonsListActionFilter.OnActionExecuted method
+2024-09-16 17:32:25.717 +05:30 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2024-09-16 17:32:25.718 +05:30 [INF] Executing ViewResult, running view Index.
+2024-09-16 17:32:25.728 +05:30 [INF] Executed ViewResult - view Index executed in 9.2114ms.
+2024-09-16 17:32:25.731 +05:30 [INF] {Filtername}.{Methodname} - after
+2024-09-16 17:32:25.733 +05:30 [INF] Always Run Action Filter After
+2024-09-16 17:32:25.735 +05:30 [INF] Executed action Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager) in 49.7574ms
+2024-09-16 17:32:25.737 +05:30 [INF] Executed endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-09-16 17:32:25.741 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 16 Sep 2024 12:02:25 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+My_Key-From_Global: [Redacted]
+My-Key-From-Method: [Redacted]
+2024-09-16 17:32:25.744 +05:30 [INF] HTTP GET /persons/index responded 200 in 63.6483 ms
+2024-09-16 17:32:25.747 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/persons/index?searchBy=&searchString=&sortBy=PersonName&sortOrder=DESC - - - 200 - text/html;+charset=utf-8 78.0898ms
+2024-09-16 17:32:25.795 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_vs/browserLink - -
+2024-09-16 17:32:25.803 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - -
+2024-09-16 17:32:25.806 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - - - 200 13768 application/javascript;+charset=utf-8 2.9484ms
+2024-09-16 17:32:25.832 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 37.0844ms
+2024-09-16 17:32:26.741 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/persons/index?searchBy=&searchString=&sortBy=PersonName&sortOrder=ASC - -
+2024-09-16 17:32:26.748 +05:30 [INF] Executing endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-09-16 17:32:26.750 +05:30 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller Contacts_Manager.Controllers.PersonsController (Contacts Manager).
+2024-09-16 17:32:26.757 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:26.759 +05:30 [INF] PersonsListActionFilter.OnActionExecuting method
+2024-09-16 17:32:26.761 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:26.763 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:26.768 +05:30 [INF] Index action method of PersonsController
+2024-09-16 17:32:26.773 +05:30 [INF] Entity Framework Core 6.0.5 initialized 'PersonsDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.5' with options: None
+2024-09-16 17:32:26.779 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[PersonID], [t].[CountryID], [t].[DateOfBirth], [t].[Email], [t].[Gender], [t].[PersonName], [t].[ReceiveNewsLetters], [t].[TaxIdNumber], [t0].[CountryID], [t0].[CountryName]
+FROM [TblPersons] AS [t]
+LEFT JOIN [TblCountries] AS [t0] ON [t].[CountryID] = [t0].[CountryID]
+2024-09-16 17:32:26.783 +05:30 [INF] PersonsListActionFilter.OnActionExecuted method
+2024-09-16 17:32:26.784 +05:30 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2024-09-16 17:32:26.785 +05:30 [INF] Executing ViewResult, running view Index.
+2024-09-16 17:32:26.789 +05:30 [INF] Executed ViewResult - view Index executed in 3.4007ms.
+2024-09-16 17:32:26.795 +05:30 [INF] {Filtername}.{Methodname} - after
+2024-09-16 17:32:26.798 +05:30 [INF] Always Run Action Filter After
+2024-09-16 17:32:26.801 +05:30 [INF] Executed action Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager) in 45.1348ms
+2024-09-16 17:32:26.804 +05:30 [INF] Executed endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-09-16 17:32:26.809 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 16 Sep 2024 12:02:26 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+My_Key-From_Global: [Redacted]
+My-Key-From-Method: [Redacted]
+2024-09-16 17:32:26.811 +05:30 [INF] HTTP GET /persons/index responded 200 in 62.9597 ms
+2024-09-16 17:32:26.816 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/persons/index?searchBy=&searchString=&sortBy=PersonName&sortOrder=ASC - - - 200 - text/html;+charset=utf-8 74.2707ms
+2024-09-16 17:32:26.871 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_vs/browserLink - -
+2024-09-16 17:32:26.879 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - -
+2024-09-16 17:32:26.883 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - - - 200 13768 application/javascript;+charset=utf-8 4.6184ms
+2024-09-16 17:32:26.910 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 38.7586ms
+2024-09-16 17:32:27.587 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/persons/index?searchBy=&searchString=&sortBy=PersonName&sortOrder=DESC - -
+2024-09-16 17:32:27.596 +05:30 [INF] Executing endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-09-16 17:32:27.598 +05:30 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller Contacts_Manager.Controllers.PersonsController (Contacts Manager).
+2024-09-16 17:32:27.600 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:27.601 +05:30 [INF] PersonsListActionFilter.OnActionExecuting method
+2024-09-16 17:32:27.602 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:27.604 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:27.611 +05:30 [INF] Index action method of PersonsController
+2024-09-16 17:32:27.614 +05:30 [INF] Entity Framework Core 6.0.5 initialized 'PersonsDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.5' with options: None
+2024-09-16 17:32:27.626 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[PersonID], [t].[CountryID], [t].[DateOfBirth], [t].[Email], [t].[Gender], [t].[PersonName], [t].[ReceiveNewsLetters], [t].[TaxIdNumber], [t0].[CountryID], [t0].[CountryName]
+FROM [TblPersons] AS [t]
+LEFT JOIN [TblCountries] AS [t0] ON [t].[CountryID] = [t0].[CountryID]
+2024-09-16 17:32:27.634 +05:30 [INF] PersonsListActionFilter.OnActionExecuted method
+2024-09-16 17:32:27.637 +05:30 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2024-09-16 17:32:27.642 +05:30 [INF] Executing ViewResult, running view Index.
+2024-09-16 17:32:27.646 +05:30 [INF] Executed ViewResult - view Index executed in 4.0653ms.
+2024-09-16 17:32:27.649 +05:30 [INF] {Filtername}.{Methodname} - after
+2024-09-16 17:32:27.651 +05:30 [INF] Always Run Action Filter After
+2024-09-16 17:32:27.654 +05:30 [INF] Executed action Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager) in 53.4441ms
+2024-09-16 17:32:27.659 +05:30 [INF] Executed endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-09-16 17:32:27.663 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 16 Sep 2024 12:02:27 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+My_Key-From_Global: [Redacted]
+My-Key-From-Method: [Redacted]
+2024-09-16 17:32:27.666 +05:30 [INF] HTTP GET /persons/index responded 200 in 70.3574 ms
+2024-09-16 17:32:27.672 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/persons/index?searchBy=&searchString=&sortBy=PersonName&sortOrder=DESC - - - 200 - text/html;+charset=utf-8 84.6350ms
+2024-09-16 17:32:27.692 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_vs/browserLink - -
+2024-09-16 17:32:27.695 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - -
+2024-09-16 17:32:27.698 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - - - 200 13768 application/javascript;+charset=utf-8 2.0930ms
+2024-09-16 17:32:27.721 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 28.5137ms
+2024-09-16 17:32:28.375 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/persons/index?searchBy=&searchString=&sortBy=PersonName&sortOrder=ASC - -
+2024-09-16 17:32:28.382 +05:30 [INF] Executing endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-09-16 17:32:28.383 +05:30 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller Contacts_Manager.Controllers.PersonsController (Contacts Manager).
+2024-09-16 17:32:28.386 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:28.388 +05:30 [INF] PersonsListActionFilter.OnActionExecuting method
+2024-09-16 17:32:28.390 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:28.393 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:28.398 +05:30 [INF] Index action method of PersonsController
+2024-09-16 17:32:28.402 +05:30 [INF] Entity Framework Core 6.0.5 initialized 'PersonsDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.5' with options: None
+2024-09-16 17:32:28.411 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[PersonID], [t].[CountryID], [t].[DateOfBirth], [t].[Email], [t].[Gender], [t].[PersonName], [t].[ReceiveNewsLetters], [t].[TaxIdNumber], [t0].[CountryID], [t0].[CountryName]
+FROM [TblPersons] AS [t]
+LEFT JOIN [TblCountries] AS [t0] ON [t].[CountryID] = [t0].[CountryID]
+2024-09-16 17:32:28.418 +05:30 [INF] PersonsListActionFilter.OnActionExecuted method
+2024-09-16 17:32:28.420 +05:30 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2024-09-16 17:32:28.423 +05:30 [INF] Executing ViewResult, running view Index.
+2024-09-16 17:32:28.433 +05:30 [INF] Executed ViewResult - view Index executed in 9.1646ms.
+2024-09-16 17:32:28.436 +05:30 [INF] {Filtername}.{Methodname} - after
+2024-09-16 17:32:28.441 +05:30 [INF] Always Run Action Filter After
+2024-09-16 17:32:28.443 +05:30 [INF] Executed action Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager) in 57.1287ms
+2024-09-16 17:32:28.449 +05:30 [INF] Executed endpoint 'Contacts_Manager.Controllers.PersonsController.Index (Contacts Manager)'
+2024-09-16 17:32:28.455 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 16 Sep 2024 12:02:27 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+My_Key-From_Global: [Redacted]
+My-Key-From-Method: [Redacted]
+2024-09-16 17:32:28.462 +05:30 [INF] HTTP GET /persons/index responded 200 in 80.5176 ms
+2024-09-16 17:32:28.466 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/persons/index?searchBy=&searchString=&sortBy=PersonName&sortOrder=ASC - - - 200 - text/html;+charset=utf-8 91.0404ms
+2024-09-16 17:32:28.494 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_vs/browserLink - -
+2024-09-16 17:32:28.508 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - -
+2024-09-16 17:32:28.510 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_framework/aspnetcore-browser-refresh.js - - - 200 13768 application/javascript;+charset=utf-8 1.7817ms
+2024-09-16 17:32:28.526 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 30.9980ms
+2024-09-16 17:32:30.932 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5045/Persons/PersonsCSV - -
+2024-09-16 17:32:30.939 +05:30 [INF] Executing endpoint 'Contacts_Manager.Controllers.PersonsController.PersonsCSV (Contacts Manager)'
+2024-09-16 17:32:30.958 +05:30 [INF] Route matched with {action = "PersonsCSV", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PersonsCSV() on controller Contacts_Manager.Controllers.PersonsController (Contacts Manager).
+2024-09-16 17:32:30.963 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:30.964 +05:30 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync before method
+2024-09-16 17:32:31.108 +05:30 [INF] Entity Framework Core 6.0.5 initialized 'PersonsDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.5' with options: None
+2024-09-16 17:32:31.114 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[PersonID], [t].[CountryID], [t].[DateOfBirth], [t].[Email], [t].[Gender], [t].[PersonName], [t].[ReceiveNewsLetters], [t].[TaxIdNumber], [t0].[CountryID], [t0].[CountryName]
+FROM [TblPersons] AS [t]
+LEFT JOIN [TblCountries] AS [t0] ON [t].[CountryID] = [t0].[CountryID]
+2024-09-16 17:32:31.192 +05:30 [INF] Always Run Action Filter Before
+2024-09-16 17:32:31.201 +05:30 [INF] Executing FileStreamResult, sending file with download name 'persons.csv' ...
+2024-09-16 17:32:31.221 +05:30 [INF] Always Run Action Filter After
+2024-09-16 17:32:31.224 +05:30 [INF] Executed action Contacts_Manager.Controllers.PersonsController.PersonsCSV (Contacts Manager) in 261.0201ms
+2024-09-16 17:32:31.232 +05:30 [INF] Executed endpoint 'Contacts_Manager.Controllers.PersonsController.PersonsCSV (Contacts Manager)'
+2024-09-16 17:32:31.236 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/octet-stream
+Date: Mon, 16 Sep 2024 12:02:30 GMT
+Server: Kestrel
+Content-Length: 1024
+My_Key-From_Global: [Redacted]
+My-Key-From-Method: [Redacted]
+Content-Disposition: attachment; filename=persons.csv; filename*=UTF-8''persons.csv
+2024-09-16 17:32:31.243 +05:30 [INF] HTTP GET /Persons/PersonsCSV responded 200 in 304.1303 ms
+2024-09-16 17:32:31.247 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5045/Persons/PersonsCSV - - - 200 1024 application/octet-stream 315.0117ms

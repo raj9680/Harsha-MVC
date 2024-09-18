@@ -3,8 +3,10 @@ using Contacts_Manager.Filters.AuthorizationFilters;
 using Contacts_Manager.Filters.ExceptionFilters;
 using Contacts_Manager.Filters.ResourceFilters;
 using Contacts_Manager.Filters.ResultFilters;
+using Contacts_Manager.Filters.SkipFilters;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Remove.Contacts_Manager.Filters.ActionFilters;
 using Rotativa.AspNetCore;
 using ServiceContracts;
 using ServiceContracts.DTO;
@@ -14,8 +16,15 @@ namespace Contacts_Manager.Controllers
 {
     [Route("[controller]")]
     // class/controller level filter trigger on each method of current controller
-    [TypeFilter(typeof(ResponseHeaderActionFilter), Arguments = new object[] { "My-Key-From-Controller", "My-Value-From-Controller", 2 }, Order = 2)]
-    [TypeFilter(typeof(HandleExceptionFilter))]
+    
+    // In case of TypeFilter
+    //[TypeFilter(typeof(ResponseHeaderActionFilter), Arguments = new object[] { "My-Key-From-Controller", "My-Value-From-Controller", 2 }, Order = 2)]
+
+    // In case of IFilterFactory
+    [ResponseHeaderFilterFactory("My-Key-From-Method", "My-Value-From-Method", 1)]
+
+    //[TypeFilter(typeof(HandleExceptionFilter))]
+    [TypeFilter(typeof(PersonsAlwaysRunResultFilter))]
     public class PersonsController : Controller
     {
         private readonly IPersonService _personService;
@@ -32,8 +41,18 @@ namespace Contacts_Manager.Controllers
         [Route("/")]
         [Route("[action]")]
         [TypeFilter(typeof(PersonsListActionFilter))]
-        [TypeFilter(typeof(ResponseHeaderActionFilter), Arguments = new object[] { "My-Key-From-Method", "My-Value-From-Method", 1 }, Order = 1)]
+
+        // In case of type filter
+        //[TypeFilter(typeof(ResponseHeaderActionFilter), Arguments = new object[] { "My-Key-From-Method", "My-Value-From-Method", 1 }, Order = 1)]
+
+        // In case of IFilterFactory
+        [ResponseHeaderFilterFactory("My-Key-From-Method", "My-Value-From-Method", 1)]
+
+        // In case of attribute filter
+        // [ResponseHeaderActionFilter("My-Key-From-Method", "My-Value-From-Method", 1)]
+
         [TypeFilter(typeof(PersonsListResultFilter))]
+        [SkipFilter] // this is filter but we converted that specific filter class to attribute
         public async Task<IActionResult> Index(string searchBy, string? searchString, string sortBy = nameof(PersonResponse.PersonName), SortOrderOptions sortOrder = SortOrderOptions.ASC)
         {
             _logger.LogInformation("Index action method of PersonsController");
@@ -73,7 +92,12 @@ namespace Contacts_Manager.Controllers
         // Executes when user click create person
         [Route("[action]")]
         [HttpGet]
-        [TypeFilter(typeof(ResponseHeaderActionFilter), Arguments = new object[] { "Y-Custom-Key", "Y-Custom-Value", 1})]
+        // In case of TypeFilter
+        // [TypeFilter(typeof(ResponseHeaderActionFilter), Arguments = new object[] { "Y-Custom-Key", "Y-Custom-Value", 1})]
+        
+        // In case of IFilterFactory
+        // In case of IFilterFactory
+        [ResponseHeaderFilterFactory("My-Key-From-Method", "My-Value-From-Method", 1)]
         public async Task<IActionResult> Create()
         {
             List<CountryResponse> countries = await _countryService.GetAllCountries();
@@ -162,7 +186,6 @@ namespace Contacts_Manager.Controllers
         [Route("[action]/{personID}")]
         [TypeFilter(typeof(PersonCreateAndEditPostActionFilter))]
         [TypeFilter(typeof(TokenAuthorizationFilter))]
-        [TypeFilter(typeof(PersonsAlwaysRunResultFilter))]
         public async Task<IActionResult> Edit(PersonUpdateRequest personRequest)
         {
             PersonResponse? personResponse = await _personService.GetPersonByPersonID(personRequest.PersonID);
@@ -176,6 +199,8 @@ namespace Contacts_Manager.Controllers
             //if (ModelState.IsValid)
             //{
 
+            // uncommnet to trigger InvalidPersonIDException, ExceptionClass Library
+            // personRequest.PersonID = Guid.NewGuid();
                 PersonResponse updatedPerson = await _personService.UpdatePerson(personRequest);
                 return RedirectToAction("Index");
             

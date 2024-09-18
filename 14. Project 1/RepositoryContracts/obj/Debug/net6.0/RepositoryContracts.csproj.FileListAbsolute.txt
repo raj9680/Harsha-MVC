@@ -1,0 +1,16 @@
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\RepositoryContracts\bin\Debug\net6.0\RepositoryContracts.deps.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\RepositoryContracts\bin\Debug\net6.0\RepositoryContracts.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\RepositoryContracts\bin\Debug\net6.0\RepositoryContracts.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\RepositoryContracts\bin\Debug\net6.0\Entities.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\RepositoryContracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.sourcelink.json
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\RepositoryContracts\obj\Debug\net6.0\Reposito.28D4BA81.Up2Date
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\RepositoryContracts\obj\Debug\net6.0\refint\RepositoryContracts.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\RepositoryContracts\obj\Debug\net6.0\ref\RepositoryContracts.dll

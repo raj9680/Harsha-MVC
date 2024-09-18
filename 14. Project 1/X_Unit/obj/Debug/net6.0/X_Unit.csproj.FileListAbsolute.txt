@@ -146,11 +146,15 @@ C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\X_Unit\bin\Debug\net6.0\runt
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\X_Unit\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\X_Unit\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\X_Unit\bin\Debug\net6.0\Entities.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\X_Unit\bin\Debug\net6.0\Exceptions.dll
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\X_Unit\bin\Debug\net6.0\RepositoryContracts.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\X_Unit\bin\Debug\net6.0\Service.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\X_Unit\bin\Debug\net6.0\ServiceContracts.dll
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\X_Unit\bin\Debug\net6.0\Entities.pdb
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\X_Unit\bin\Debug\net6.0\ServiceContracts.pdb
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\X_Unit\bin\Debug\net6.0\Service.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\X_Unit\bin\Debug\net6.0\Exceptions.pdb
+C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\X_Unit\bin\Debug\net6.0\RepositoryContracts.pdb
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\X_Unit\obj\Debug\net6.0\X_Unit.csproj.AssemblyReference.cache
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\X_Unit\obj\Debug\net6.0\X_Unit.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\raj.kumar\Desktop\HARSHA-MVC\14. Project 1\X_Unit\obj\Debug\net6.0\X_Unit.AssemblyInfoInputs.cache
